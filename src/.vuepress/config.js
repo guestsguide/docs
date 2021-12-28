@@ -10,6 +10,7 @@ const config = {
     ["meta", { name: "apple-mobile-web-app-capable", content: "yes" }],
     ["meta", { name: "apple-mobile-web-app-status-bar-style", content: "black" }],
     ["meta", { name: "robots", content: "index,follow" }],
+    ["link", { rel: "stylesheet", href: "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" }],
   ],
   markdown: {
     anchor: { permalink: false },
@@ -37,6 +38,7 @@ const config = {
       "/de/": [
         {
           title: "Guide",
+          children: ["overview", "guide/", "languages/", "pages/", "appearance/"],
         },
       ],
     },
