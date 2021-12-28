@@ -1,0 +1,23 @@
+{
+  "name": "guestsguide-docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "authors": {
+    "name": "",
+    "email": ""
+  },
+  "repository": "guestsguide/docs",
+  "scripts": {
+    "dev": "vuepress dev src --no-clear-screen",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "copy-webpack-plugin": "^6.2.0",
+    "vuepress": "^1.9.2"
+  },
+  "dependencies": {
+    "markdown-it-task-lists": "^2.1.1"
+  }
+}
