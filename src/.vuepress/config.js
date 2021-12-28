@@ -24,58 +24,41 @@ const config = {
     lastUpdated: false,
     nav: [
       {
-        text: "Docs",
-        link: "/en/docs/",
-      },
-      {
         text: "Guests Guide",
         link: "https://guestsguide.com",
       },
     ],
     sidebar: {
-      "/docs/": [
+      "/en/": [
+        {
+          title: "Guide",
+        },
+      ],
+      "/de/": [
         {
           title: "Guide",
         },
       ],
     },
     locales: {
-      // The key is the path for the locale to be nested under.
-      // As a special case, the default locale can use '/' as its path.
-      "/de/": {
-        lang: "de-DE",
-        title: "Guests Guide Docs",
-        sidebar: {
-          "/de/docs/": [
-            {
-              title: "Guide",
-            },
-          ],
-        },
-      },
       "/en/": {
-        lang: "en-US",
-        title: "Guests Guide Docs",
-        sidebar: {
-          "/en/docs/": [
-            {
-              title: "Guide",
-            },
-          ],
-        },
+        selectText: "Languages",
+        label: "English",
+      },
+      "/de/": {
+        selectText: "Sprachen",
+        label: "Deutsch",
       },
     },
   },
   locales: {
     // The key is the path for the locale to be nested under.
     // As a special case, the default locale can use '/' as its path.
-    "/": {
-      lang: "english",
-      title: "Guests Guide Docs",
+    "/en/": {
+      lang: "en_US",
     },
     "/de/": {
-      lang: "deutsch",
-      title: "Guests Guide Docs",
+      lang: "de_DE",
     },
   },
   configureWebpack: {
