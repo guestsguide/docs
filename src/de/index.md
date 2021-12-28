@@ -3,6 +3,6 @@ home: true
 heroImage: ndsf-logo.png
 tagline: Documentation
 actionText: View Docs →
-actionLink: /docs/
+actionLink: /de/docs/
 footer: " "
 ---
