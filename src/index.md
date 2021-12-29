@@ -4,5 +4,5 @@ heroImage: ndsf-logo.png
 tagline: Documentation
 actionText: View Docs →
 actionLink: /en/docs/
-footer: " "
+footer: © 2021 Guests Guide
 ---
