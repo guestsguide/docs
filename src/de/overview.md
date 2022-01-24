@@ -1,1 +1,12 @@
 # Übersicht
+
+Herzlich Willkommen zu Ihrem Guestst Guide!
+
+Wir möchten Ihnen die Erstellung und Bedienung Ihres eigenen Guests Guide so einfach wie möglich machen.
+
+Diese Dokumetation erklärt Schritt für Schritt jede Funktionsweise und Einstellmöglichkeit Ihres Guests Guide.
+
+Guests Guide bietet Ihnen eine White-Label-Plattform, auf der Sie alle für den Aufenthalt Ihres Gastes relevanten Informationen, tagesaktuelle Neuigkeiten und Zusatzinformationen komprimiert zusammenstellen können.
+Behalten Sie immer im Hinterkopf, dass der Guests Guide nicht Ihre Webseite ersetzen soll oder potentielle Gäste von Ihrem Unternehmen überzeugen soll. Er richtet sich ausschließlich an die Menschen, die schon Ihre Gäste sind oder einen Aufenthalt bei Ihnen geplant haben.
+
+Sollten Sie dennoch Fragen zu unserem Produkt haben, wenden Sie sich bitte an unseren technischen Support: 
