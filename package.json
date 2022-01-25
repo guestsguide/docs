@@ -15,7 +15,9 @@
   "license": "MIT",
   "devDependencies": {
     "copy-webpack-plugin": "^6.2.0",
-    "vuepress": "^1.9.2"
+    "vuepress": "^1.9.2",
+    "vuepress-plugin-clean-urls": "^1.1.2",
+    "vuepress-plugin-redirect": "^1.2.5"
   },
   "dependencies": {
     "markdown-it-task-lists": "^2.1.1"

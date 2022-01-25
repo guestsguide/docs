@@ -38,7 +38,12 @@ const config = {
       "/de/": [
         {
           title: "Guide",
-          children: ["overview", "guide/", "languages/", "pages/", "appearance/"],
+          children: ["guide/", "guide/guide", "guide/languages", "guide/pages", "guide/appearance"],
+        },
+        {
+          title: "Pakete",
+          link: "packages/",
+          children: ["packages/basic", "packages/standard", "packages/premium", "packages/free"],
         },
       ],
     },
@@ -81,7 +86,32 @@ const config = {
       md.use(require("markdown-it-task-lists"));
     },
   },
-  plugins: ["@vuepress/plugin-back-to-top", "@vuepress/plugin-medium-zoom"],
+  plugins: [
+    "@vuepress/plugin-back-to-top",
+    "@vuepress/plugin-medium-zoom",
+    [
+      "vuepress-plugin-redirect",
+      {
+        // provide i18n redirection
+        // it will automatically redirect `/foo/bar/` to `/:locale/foo/bar/` if exists
+        locales: true,
+        redirectors: [
+          {
+            base: "/",
+            alternative: ["en", "de"],
+          },
+        ],
+      },
+    ],
+    [
+      "vuepress-plugin-clean-urls",
+      {
+        normalSuffix: "/",
+        indexSuffix: "/",
+        notFoundPath: "/404/",
+      },
+    ],
+  ],
 };
 
 for (const group of Object.values(config.themeConfig.sidebar)) {

@@ -1,45 +1,29 @@
-# Mein Guide
+---
+title: Übersicht
+sidebarDepth: 0
+---
 
-Registrieren Sie sich bei Guests Guide und wählen Sie ein für sich passendes Abo aus. Sie haben natürlich jederzeit die Möglichkeit Ihre Abo-Einstellungen zu ändern und Ihren Bedürfnissen anzupassen.
+# Herzlich Willkommen
 
-Beginnen Sie mit einem Klick auf `Neuen Guide anlegen`. 
+Wir möchten Ihnen die Erstellung und Bedienung Ihres eigenen Guests Guide so einfach wie möglich machen. Diese Dokumetation erklärt Schritt für Schritt jede Funktionsweise und Einstellmöglichkeit Ihres Guests Guide.
 
-Sie sehen im Menü schon Ihre Einstellungsmöglichkeiten:
+Guests Guide bietet Ihnen eine White-Label-Plattform, auf der Sie alle für den Aufenthalt Ihres Gastes relevanten Informationen, tagesaktuelle Neuigkeiten und Zusatzinformationen komprimiert zusammenstellen können.
+Behalten Sie immer im Hinterkopf, dass der Guests Guide nicht Ihre Webseite ersetzen soll oder potentielle Gäste von Ihrem Unternehmen überzeugen soll. Er richtet sich ausschließlich an die Menschen, die schon Ihre Gäste sind oder einen Aufenthalt bei Ihnen geplant haben.
 
-- Mein Guide
-- Sprachen
-- Seiten
-- Aussehen
-- Einstellungen
+<!-- Sollten Sie dennoch Fragen zu unserem Produkt haben, wenden Sie sich bitte an unseren technischen Support:  -->
 
-Hier finden Sie auch eine Übersicht Ihres Abos, mit der Möglichkeit es aufzuwerten.
+## Immer aktuell
 
-Starten Sie mit den elementaren Grundeinstellungen unter `Mein Guide`.
+Digitalisieren Sie Ihre in den Zimmern ausliegenden Gästebrochüren, immer auf dem neuesten Stand und weg mit dem Papier.
 
-## Projekt Titel
+## Web-Anwendung
 
-Geben Sie Ihrem Guide einen Projekt Titel. Sie können hier komplett frei wählen. Nehmen 
-sie einfach den Namen Ihres Hotels oder vielleicht gibt es auch eine Kurzform, die Sie in der Kommunikation mit Ihrem Gast verwenden. Sie müssen hier nicht die komplette Geschäftsbezeichnung verwenden. Dieser Name wird im Browser Titel und, bei Installation der Web-App, auf dem Homescreen angezeigt.
-Klicken Sie dann einfach auf `Speichern`. Ein grünes Aufleuchten des `Speichern`-Buttons signalisiert die Übernahme der Einstellung.
+Ohne etwas herunterzuladen zu müssen, kann der Gast alles über sein Telefon, Tablet oder Laptop erledigen.
 
-## Vorläufige Domain
+## Kommunikation
 
-## Eigene Domain
+Nehmen Sie online unter Ihrem Namen, Ihrem Stil und Ihrer Marke mit Ihrem Gast Kontakt auf.
 
-## Wetter Widget
+## Dynamisches Feedback
 
-Das Wetter Widget gibt Ihnen die Möglichkeit Ihren Gästen einen Überblick über das Wetter in Ihrer Region zu geben. Es wird immer auf der Startseite Ihres Guests Guide angezeigt und kann nicht deaktiviert werden.
-Geben Sie Ihren Ort ein und klicken Sie auf `Speichern`. Automatisch werden jetzt folgende Wetterdaten zu Ihrem Standort geladen:
-
-- Datum und Wochentag
-- aktuelle Temperatur mit aktueller Wetteransage
-- Höchst- und Tiefstemperatur
-- Regenwahrscheinlichkeit
-- Luftfeuchtigkeit
-- Windgeschwindigkeit
-- Sonnenwahrscheinlichkeit
-- Sonnenaufgang und Sonnenuntergang
-
-Mit einem Klik auf den Pfeil im Wetter Widget erhält der Gast eine Wetterüberischt der nächsten 7 Tage.
-
-Das Wetter Widget automatisiert sich selbstständig. Haben Sie einmal Ihren Ort eingegeben, müssen Sie nichts weiter machen.
+Eine konstruktive Herangehensweise während des Aufenthalts verhindert negative Bewertungen im Nachhinein.
