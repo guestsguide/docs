@@ -33,6 +33,12 @@ const config = {
       "/en/": [
         {
           title: "Guide",
+          children: ["guide/", "guide/guide", "guide/languages", "guide/pages", "guide/appearance"],
+        },
+        {
+          title: "Packages",
+          link: "packages/",
+          children: ["packages/basic", "packages/standard", "packages/premium", "packages/free"],
         },
       ],
       "/de/": [
