@@ -43,3 +43,5 @@ Geben Sie Ihren Ort ein und klicken Sie auf `Speichern`. Automatisch werden jetz
 Mit einem Klik auf den Pfeil im Wetter Widget erhält der Gast eine Wetterüberischt der nächsten 7 Tage.
 
 Das Wetter Widget automatisiert sich selbstständig. Haben Sie einmal Ihren Ort eingegeben, müssen Sie nichts weiter machen.
+
+## QR_Code
