@@ -15,7 +15,7 @@ Oben finden Sie eine Übersicht der Sprachen und den `Speichern` Button. Dadrunt
 
 ## Sprachen
 
-Sie sehen hier die Sprachen, die Sie für Ihren Guests Guide ausgewählt haben. Ein schwarzer Rahmen um die Flagge, zeigt Ihnen, welche Sprache gerade aktiviert ist. Mit einem Klick auf ein anderes Flaggen-Icon wechseln Sie die Sprache. Die Eingabemaske ist für jede Sprache identisch. Die Inhalte übertragen sich automatisch, werden aber nicht automatisch übersetzt.
+Sie sehen hier die Sprachen, die Sie für Ihren Guests Guide ausgewählt haben. Ein schwarzer Rahmen um die Flagge, zeigt Ihnen, welche Sprache gerade aktiviert ist. Mit einem Klick auf ein anderes Flaggen-Icon wechseln Sie die Sprache. Die Eingabemaske ist für jede Sprache identisch. Die Inhalte übertragen sich automatisch, werden aber nicht automatisch übersetzt. 
 
 ## Titel
 
