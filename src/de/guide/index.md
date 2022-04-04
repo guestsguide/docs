@@ -12,18 +12,38 @@ Behalten Sie immer im Hinterkopf, dass der Guests Guide nicht Ihre Webseite erse
 
 <!-- Sollten Sie dennoch Fragen zu unserem Produkt haben, wenden Sie sich bitte an unseren technischen Support:  -->
 
-## Immer aktuell
+### Immer aktuell
 
-Digitalisieren Sie Ihre in den Zimmern ausliegenden Gästebrochüren, immer auf dem neuesten Stand und weg mit dem Papier.
+Geben Sie tagesaktuelle Informationen schnell und einfach an Ihre Kunden weiter - ganz ohne Papiermüll!
 
-## Web-Anwendung
+### Einfach zu erstellen
 
-Ohne etwas herunterzuladen zu müssen, kann der Gast alles über sein Telefon, Tablet oder Laptop erledigen.
+Ein benutzerfreundliches CMS macht die Einrichtung und Änderungen Ihres Guests Guide kinderleicht. Sie brauchen dafür keinen externen Profi.
 
-## Kommunikation
+### Dynamisches Feedback
 
-Nehmen Sie online unter Ihrem Namen, Ihrem Stil und Ihrer Marke mit Ihrem Gast Kontakt auf.
+Ihre Kunden können Ihnen schon während des Aufenthaltes Feedback geben - und Sie können sofort darauf reagieren.
 
-## Dynamisches Feedback
+### Easy Access
 
-Eine konstruktive Herangehensweise während des Aufenthalts verhindert negative Bewertungen im Nachhinein.
+Ihre Gäste müssen sich weder anmelden noch eine App herunterladen. Einfach QR-Code scannen und loslegen.
+
+### Individuell
+
+Gestalten Sie Ihren Guests Guide ganz nach Ihren Wünschen und Ihrem CI - mit Ihrem Logo und Ihren Farben.
+
+### Gastfreundschaft+
+
+Gestalten Sie für Ihren Kunden einen exzellenten Aufenthalt in Ihrem Hotel, sondern bringen Sie ihm auch Ihre Umgebung näher.
+
+### Flexibel
+
+Sie können jederzeit zwischen unseren attraktiven Preispaketen wehseln - so wie es gerade zu Ihren Bedürfnissen passt.
+
+### Nachhaltigkeit
+
+Alle Informationen schnell und einfach online veröffentlichen, das spart Papier und schont die Umwelt.
+
+### Zeitersparnis
+
+Alle häufig gestellten Fragen an einem Ort, kompakt und schnell zugänglich erspart Ihren Kunden den Gang zur Rezeption und Ihnen Zeit.

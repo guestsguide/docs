@@ -38,10 +38,14 @@ Guests Guide ist eine White-Label Platform, das bedeutet, das Ihr Guide mit Ihre
 
 Guests Guide überprüft regelmäßig den Status Ihrer DNS Einstellungen und ob Ihre eigene Domain connected wurde. Falls dies erfolgreich geschehen ist, erhalten Sie eine E-Mail von uns.
 
-:::warning DNS-Umstellungen dauern eine Weile
+::: tip DNS-Umstellungen dauern eine Weile
 Es kann bis zu 24 Stunden dauern, bis der DNS Record weltweit geändert wird und die Änderungen für Sie sichtbar werden.
 :::
 
 ## QR-Code
 
-Scannen Sie den QR-Code um Ihren Guide auf Ihrem Smartphone zu testen oder benutzen Sie diesen QR-Code um Ihren Guide in Werbemitteln zu bewerben.
+Scannen Sie den QR-Code um Ihren Guide auf Ihrem Smartphone zu testen oder benutzen Sie diesen QR-Code um Ihren Guide in Werbemitteln zu bewerben. Der Code repräsentiert die vorläufige Domain, soweit keine eigene Domain angegeben wurde, ansonsten verlinkt der Code die eigene Domain.
+
+::: tip Download-Größe des QR-Codes
+Sie können sich den QR-Code als hochaufgelöstes JPG-Bild mit 10 x 10 cm bei 300 dpi herunterladen und in Ihrer gedruckten Werbemitteln verwenden.
+:::
