@@ -16,9 +16,9 @@ Hier finden Sie auch eine Übersicht Ihres Abos, mit der Möglichkeit es aufzuwe
 
 Starten Sie mit den elementaren Grundeinstellungen unter `Mein Guide`.
 
-## Projekt Titel
+## Guide Titel
 
-Geben Sie Ihrem Guide einen Projekt Titel. Sie können hier komplett frei wählen. Nehmen sie einfach den Namen Ihres Hotels oder vielleicht gibt es auch eine Kurzform, die Sie in der Kommunikation mit Ihrem Gast verwenden. Sie müssen hier nicht die komplette Geschäftsbezeichnung verwenden. Dieser Name wird im Browser Titel und, bei Installation der Web-App, auf dem Homescreen angezeigt.
+Geben Sie Ihrem Guide einen Titel. Sie können hier komplett frei wählen. Nehmen sie einfach den Namen Ihres Hotels oder vielleicht gibt es auch eine Kurzform, die Sie in der Kommunikation mit Ihrem Gast verwenden. Sie müssen hier nicht die komplette Geschäftsbezeichnung verwenden. Dieser Name wird im Browser Titel und, bei Installation der Web-App, auf dem Homescreen angezeigt.
 
 Klicken Sie dann einfach auf `Speichern`. Ein grünes Aufleuchten des `Speichern`-Buttons signalisiert die Übernahme der Einstellung.
 
