@@ -8,9 +8,18 @@ const config = {
   head: [
     ["meta", { name: "theme-color", content: "#000000" }],
     ["meta", { name: "apple-mobile-web-app-capable", content: "yes" }],
-    ["meta", { name: "apple-mobile-web-app-status-bar-style", content: "black" }],
+    [
+      "meta",
+      { name: "apple-mobile-web-app-status-bar-style", content: "black" },
+    ],
     ["meta", { name: "robots", content: "index,follow" }],
-    ["link", { rel: "stylesheet", href: "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" }],
+    [
+      "link",
+      {
+        rel: "stylesheet",
+        href: "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap",
+      },
+    ],
   ],
   markdown: {
     anchor: { permalink: false },
@@ -33,23 +42,46 @@ const config = {
       "/en/": [
         {
           title: "Guide",
-          children: ["guide/", "guide/guide", "guide/languages", "guide/pages", "guide/appearance"],
+          children: [
+            "guide/",
+            "guide/guide",
+            "guide/languages",
+            "guide/pages",
+            "guide/appearance",
+          ],
         },
         {
           title: "Packages",
           link: "packages/",
-          children: ["packages/basic", "packages/standard", "packages/premium", "packages/free"],
+          children: [
+            "packages/basic",
+            "packages/standard",
+            "packages/premium",
+            "packages/free",
+          ],
         },
       ],
       "/de/": [
         {
           title: "Guide",
-          children: ["guide/", "guide/guide", "guide/languages", "guide/pages", "guide/appearance"],
+          children: [
+            "guide/",
+            "guide/guide",
+            "guide/languages",
+            "guide/pages",
+            "guide/appearance",
+            "guide/settings",
+          ],
         },
         {
           title: "Pakete",
           link: "packages/",
-          children: ["packages/basic", "packages/standard", "packages/premium", "packages/free"],
+          children: [
+            "packages/basic",
+            "packages/standard",
+            "packages/premium",
+            "packages/free",
+          ],
         },
       ],
     },
@@ -88,7 +120,7 @@ const config = {
   },
 
   markdown: {
-    extendMarkdown: (md) => {
+    extendMarkdown: md => {
       md.use(require("markdown-it-task-lists"));
     },
   },
