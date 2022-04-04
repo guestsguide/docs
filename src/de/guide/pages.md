@@ -25,7 +25,7 @@ Geben Sie Ihrer Seite einen Titel. Dieser Titel wird Ihnen sowohl in Ihrer Backe
 
 In das Inhalts-Feld können Sie alle Informationen die Sie Ihren Gästen geben möchten eintragen. Der Text-Editor gibt Ihnen diverse Möglichkeiten Ihre Informationen zu gliedern und anschaulich zu präsentieren.
 
-Beginnen Sie mit einem Klick in den Kasten. 
+**Beginnen Sie mit einem Klick in den Kasten:**
 
 Sie sehen jetzt einmal einen Curser und können einen Standard-Text eintragen. Sie sehen aber auch ein `Plus`-Icon.
 Entweder Klicken Sie jetzt auf das `Plus`-Icon oder Sie nutzen die `Tab`-Taste um den Text-Editor zu öffnen.
@@ -60,6 +60,8 @@ Gehen Sie mit der Mau über die Tabelle erscheint am linken Rand und oberhalb de
 
 #### Karte
 
+Lassen Sie auf einer Seite eine Karte anzeigen.
+
 ## Kategorie
 
 Weisen Sie Ihrer Seite eine Katgorie zu. Diese Kategorie entscheidet darüber, welches Design die Seite in der Web-App später haben wird.
@@ -75,7 +77,8 @@ Weisen Sie Ihrer Seite eine Katgorie zu. Diese Kategorie entscheidet darüber, w
 ## Zeitaktivierung
 
 Nutzen Sie die ganze Flexibilität Ihres Guests Guide und stellen Sie bestimmte Seiten nur zu bestimmten Tagen oder Tageszeiten online. So können Sie Informationen, die beispielsweise nur an einem Donnerstag relevant sind, einmal einstellen und nur dann ausspielen.
-Sollten Sie hier nichts auswählen oder auf `Zurücksetzen` klicken, wir die Seite immer online sein.
+
+Sollten Sie hier nichts auswählen oder auf `Zurücksetzen` klicken, wird diese Seite immer angezeigt.
 
 ## Icon
 
