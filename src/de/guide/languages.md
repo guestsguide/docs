@@ -1,8 +1,8 @@
 # Sprachen
 
-Sie haben die Möglichkeit Ihren Guests Guide in verschiedene Sprachen zu übersetzen. Wie viele Sprachen Ihnen zur Verfügung stehen, hängt von Ihrem abgeschlossenen Abo ab.
+Sie haben die Möglichkeit Ihren Guests Guide in verschiedene Sprachen zu übersetzen. Wie viele Sprachen Ihnen zur Verfügung stehen, hängt von Ihrem abgeschlossenen Paket ab.
 
-Premium: 5 Sprachen
+Sie können in der Paket-Variante **Basic** 2 Sprachen anlegen, bei **Standard** 3 Sprachen und bei **Premium** 5 Sprachen.
 
 ## Sprache hinzufügen
 
@@ -10,4 +10,22 @@ Klicken Sie auf den Button `Sprache hinzufügen` und wählen Sie die von Ihnen g
 Sie erscheint sofort in der Übersicht.
 Es wird Ihnen auch immer eine Übersicht über die Anzahl der noch verfügbaren Sprachen angezeigt.
 
-Die einzelnen Seiten übersetzen sich nicht automatisch, das müssen Sie im Menü Punkt `Seiten`machen.
+:::info Wichtiger Hinweis
+Die Seiten werden nicht automatish übersetzt, sie können für jede Seite eine eigene Übersetzung hinzufügen.
+:::
+
+## Reihenfolge ändern
+
+Die Reihenfolge der angezeigten Sprachen können sie verändern, indem Sie die Sprache per Drag & Drop an die richtige Position schieben. 
+
+Die vorausgewählte Standardsprache können Sie verändern, in dem sie die gewünschte Sprache an die erste Position geschieben. Diese Sprache kann dann nicht gelöscht werden.
+
+## Sprache aktivieren
+
+**Neue Sprachen sind erst einmal deaktiviert und ausgegraut.**
+
+Sobald sie für alle Seiten eine Übersetzung hinterlegt haben, können sie die neue Sprache aktivieren. Gehen Sie mit der Maus über die Sprache die sie aktivieren möchten und klicken Sie auf das Symbol `Rechteck`. Das Symbol ändert sich nun auf `Checkbox` und die Sprache ist nun nicht mehr ausgegraut.
+
+## Sprache löschen
+
+Sie können eine Sprache wieder löschen, wenn sie mit der Maus über die Sprache gehen und anschließend auf das Symbol `Papierkorb` anklicken.
