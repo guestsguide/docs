@@ -10,7 +10,7 @@ Klicken Sie auf den Button `Sprache hinzufügen` und wählen Sie die von Ihnen g
 Sie erscheint sofort in der Übersicht.
 Es wird Ihnen auch immer eine Übersicht über die Anzahl der noch verfügbaren Sprachen angezeigt.
 
-:::info Wichtiger Hinweis
+:::warning Wichtiger Hinweis
 Die Seiten werden nicht automatish übersetzt, sie können für jede Seite eine eigene Übersetzung hinzufügen.
 :::
 
