@@ -1,0 +1,22 @@
+[
+  {
+    "text": "Guide",
+    "children": [
+      "/en/guide/",
+      "/en/guide/guide",
+      "/en/guide/languages",
+      "/en/guide/pages",
+      "/en/guide/appearance"
+    ]
+  },
+  {
+    "text": "Packages",
+    "link": "/en/packages/",
+    "children": [
+      "/en/packages/basic",
+      "/en/packages/standard",
+      "/en/packages/premium",
+      "/en/packages/free"
+    ]
+  }
+]

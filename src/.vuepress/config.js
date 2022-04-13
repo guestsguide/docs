@@ -1,4 +1,3 @@
-const CopyPlugin = require("copy-webpack-plugin");
 const { description } = require("../../package");
 
 const config = {
@@ -26,79 +25,38 @@ const config = {
     toc: { includeLevel: [1, 2] },
   },
   themeConfig: {
-    // repo: "nerdchandise/ndsf-guide",
-    editLinks: false,
-    docsDir: "",
-    sidebarDepth: 1,
-    editLinks: false,
+    darkMode: false,
+    repo: "guestsguide/docs",
+    editLink: true,
+    docsBranch: "master",
+    docsDir: "src",
     lastUpdated: false,
-    nav: [
+    contributors: false,
+    sidebarDepth: 1,
+    navbar: [
       {
         text: "Guests Guide",
         link: "https://guestsguide.com",
       },
     ],
-    sidebar: {
-      "/en/": [
-        {
-          title: "Guide",
-          children: [
-            "guide/",
-            "guide/guide",
-            "guide/languages",
-            "guide/pages",
-            "guide/appearance",
-          ],
-        },
-        {
-          title: "Packages",
-          link: "packages/",
-          children: [
-            "packages/basic",
-            "packages/standard",
-            "packages/premium",
-            "packages/free",
-          ],
-        },
-      ],
-      "/de/": [
-        {
-          title: "Guide",
-          children: [
-            "guide/",
-            "guide/guide",
-            "guide/languages",
-            "guide/pages",
-            "guide/appearance",
-            "guide/settings",
-          ],
-        },
-        {
-          title: "Pakete",
-          link: "packages/",
-          children: [
-            "packages/basic",
-            "packages/standard",
-            "packages/premium",
-            "packages/free",
-          ],
-        },
-      ],
-    },
     locales: {
       "/en/": {
-        selectText: "Languages",
-        label: "English",
+        selectLanguageText: "Languages",
+        selectLanguageName: "English",
+        editLinkText: "Edit this page on GitHub",
       },
       "/de/": {
-        selectText: "Sprachen",
-        label: "Deutsch",
+        selectLanguageText: "Sprachen",
+        selectLanguageName: "Deutsch",
+        editLinkText: "Diese Seite auf GitHub bearbeiten",
       },
+    },
+    sidebar: {
+      "/en/": require("../en/sidebar.json"),
+      "/de/": require("../de/sidebar.json"),
     },
   },
   locales: {
-    // The key is the path for the locale to be nested under.
-    // As a special case, the default locale can use '/' as its path.
     "/en/": {
       lang: "en_US",
     },
@@ -106,57 +64,34 @@ const config = {
       lang: "de_DE",
     },
   },
-  configureWebpack: {
-    plugins: [
-      new CopyPlugin({
-        patterns: [{ from: "src/.vuepress/static", to: "./" }],
-      }),
-    ],
-    resolve: {
-      alias: {
-        "@": "../",
-      },
-    },
-  },
-
-  markdown: {
-    extendMarkdown: md => {
-      md.use(require("markdown-it-task-lists"));
-    },
-  },
   plugins: [
-    "@vuepress/plugin-back-to-top",
-    "@vuepress/plugin-medium-zoom",
     [
-      "vuepress-plugin-redirect",
+      "@vuepress/plugin-search",
       {
-        // provide i18n redirection
-        // it will automatically redirect `/foo/bar/` to `/:locale/foo/bar/` if exists
-        locales: true,
-        redirectors: [
-          {
-            base: "/",
-            alternative: ["en", "de"],
+        locales: {
+          "/de/": {
+            placeholder: "Suche",
           },
-        ],
+          "/en/": {
+            placeholder: "Search",
+          },
+        },
       },
     ],
     [
-      "vuepress-plugin-clean-urls",
+      "@vuepress/plugin-external-link-icon",
       {
-        normalSuffix: "/",
-        indexSuffix: "/",
-        notFoundPath: "/404/",
+        locales: {
+          "/": {
+            openInNewWindow: "open in new window",
+          },
+          "/zh/": {
+            openInNewWindow: "在新窗口打开",
+          },
+        },
       },
     ],
   ],
 };
-
-for (const group of Object.values(config.themeConfig.sidebar)) {
-  for (const section of group) {
-    if (section.collapsable) continue;
-    section.collapsable = false;
-  }
-}
 
 module.exports = config;

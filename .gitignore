@@ -12,3 +12,5 @@ package-lock.json
 # Vuepress
 #
 src/.vuepress/dist
+src/.vuepress/.cache
+src/.vuepress/.temp

@@ -1,0 +1,33 @@
+[
+  {
+    "text": "Guide",
+    "children": [
+      "/de/guide/",
+      "/de/guide/guide",
+      "/de/guide/languages",
+      "/de/guide/pages",
+      "/de/guide/appearance",
+      "/de/guide/settings"
+    ]
+  },
+  {
+    "text": "Leitfäden",
+    "children": [
+      "/de/guidelines/",
+      "/de/guidelines/hotels",
+      "/de/guidelines/hospitals",
+      "/de/guidelines/parks",
+      "/de/guidelines/water-parks"
+    ]
+  },
+  {
+    "text": "Pakete",
+    "link": "packages/",
+    "children": [
+      "/de/packages/basic",
+      "/de/packages/standard",
+      "/de/packages/premium",
+      "/de/packages/free"
+    ]
+  }
+]
