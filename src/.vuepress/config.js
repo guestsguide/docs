@@ -1,3 +1,4 @@
+const { defaultTheme } = require("@vuepress/theme-default");
 const { description } = require("../../package");
 
 const config = {
@@ -24,7 +25,7 @@ const config = {
     anchor: { permalink: false },
     toc: { includeLevel: [1, 2] },
   },
-  themeConfig: {
+  theme: defaultTheme({
     darkMode: false,
     repo: "guestsguide/docs",
     editLink: true,
@@ -55,7 +56,7 @@ const config = {
       "/en/": require("../en/sidebar.json"),
       "/de/": require("../de/sidebar.json"),
     },
-  },
+  }),
   locales: {
     "/en/": {
       lang: "en_US",
@@ -82,8 +83,11 @@ const config = {
       "@vuepress/plugin-external-link-icon",
       {
         locales: {
-          "/": {
+          "/en/": {
             openInNewWindow: "open in new window",
+          },
+          "/de/": {
+            openInNewWindow: "In neuem Fenster öffnen",
           },
           "/zh/": {
             openInNewWindow: "在新窗口打开",
