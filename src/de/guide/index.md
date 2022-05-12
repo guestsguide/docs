@@ -5,7 +5,7 @@ sidebarDepth: 0
 
 # Herzlich Willkommen
 
-Wir möchten Ihnen die Erstellung und Bedienung Ihres eigenen Guests Guide so einfach wie möglich machen. Diese Dokumetation erklärt Schritt für Schritt jede Funktionsweise und Einstellmöglichkeit Ihres Guests Guide.
+Wir möchten Ihnen die Erstellung und Bedienung Ihres eigenen Guests Guide so einfach wie möglich machen. Diese Dokumentation erklärt Schritt für Schritt jede Funktionsweise und Einstellmöglichkeit Ihres Guests Guide.
 
 Guests Guide bietet Ihnen eine White-Label-Plattform, auf der Sie alle für den Aufenthalt Ihres Gastes relevanten Informationen, tagesaktuelle Neuigkeiten und Zusatzinformationen komprimiert zusammenstellen können.
 Behalten Sie immer im Hinterkopf, dass der Guests Guide nicht Ihre Webseite ersetzen soll oder potentielle Gäste von Ihrem Unternehmen überzeugen soll. Er richtet sich ausschließlich an die Menschen, die schon Ihre Gäste sind oder einen Aufenthalt bei Ihnen geplant haben.
@@ -19,6 +19,7 @@ Geben Sie tagesaktuelle Informationen schnell und einfach an Ihre Kunden weiter 
 ### Einfach zu erstellen
 
 Ein benutzerfreundliches CMS macht die Einrichtung und Änderungen Ihres Guests Guide kinderleicht. Sie brauchen dafür keinen externen Profi.
+Ohne etwas herunterladen zu müssen, kann der Gast alles über sein Telefon, Tablet oder Laptop erleben.
 
 ### Dynamisches Feedback
 
