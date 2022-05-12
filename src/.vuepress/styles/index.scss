@@ -147,3 +147,14 @@ a.sidebar-item:hover,
 .sidebar-item {
   color: #fff;
 }
+
+.sidebar .navbar-items {
+  border-color: #353535;
+}
+
+@media (max-width: 719px) {
+  .sidebar .navbar-items a,
+  .sidebar .navbar-items button {
+    color: #fff;
+  }
+}
