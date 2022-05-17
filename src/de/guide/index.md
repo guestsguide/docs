@@ -19,7 +19,6 @@ Geben Sie tagesaktuelle Informationen schnell und einfach an Ihre Kunden weiter 
 ### Einfach zu erstellen
 
 Ein benutzerfreundliches CMS macht die Einrichtung und Änderungen Ihres Guests Guide kinderleicht. Sie brauchen dafür keinen externen Profi.
-Ohne etwas herunterladen zu müssen, kann der Gast alles über sein Telefon, Tablet oder Laptop erleben.
 
 ### Dynamisches Feedback
 
