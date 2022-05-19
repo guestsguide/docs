@@ -1,5 +1,5 @@
 <p>
-  <a href="https://vuepress.vuejs.org/" target="_blank">
+  <a href="https://guestsguide.com/" target="_blank" rel="noopener">
     <img width="180" src="https://raw.githubusercontent.com/guestsguide/docs/master/src/.vuepress/public/guests-guide-logo.svg" alt="logo">
   </a>
 </p>

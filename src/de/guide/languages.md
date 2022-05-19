@@ -18,7 +18,7 @@ Die Seiten werden nicht automatish übersetzt, sie können für jede Seite eine 
 
 Die Reihenfolge der angezeigten Sprachen können sie verändern, indem Sie die Sprache per Drag & Drop an die richtige Position schieben. 
 
-Die vorausgewählte Standardsprache können Sie verändern, in dem sie die gewünschte Sprache an die erste Position geschieben. Diese Sprache kann dann nicht gelöscht werden.
+Die vorausgewählte Standardsprache können Sie verändern, in dem sie die gewünschte Sprache an die erste Position schieben. Diese Sprache kann dann nicht gelöscht werden.
 
 ## Sprache aktivieren
 
