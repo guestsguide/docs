@@ -26,7 +26,7 @@ const config = {
     toc: { includeLevel: [1, 2] },
   },
   theme: defaultTheme({
-    darkMode: false,
+    colorModeSwitch: false,
     repo: "guestsguide/docs",
     editLink: true,
     docsBranch: "master",
