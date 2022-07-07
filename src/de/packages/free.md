@@ -22,4 +22,6 @@ Das kostenlose Paket ist nicht für den Live-Betrieb vorgesehen und ist öffentl
 - Externe Links
 - Guide ist nicht öffentlich zugänglich!
 
-[Jetzt gratis ausprobieren](https://guestsguide.com/cms)
+## Jetzt gratis ausprobieren
+
+[Zur Anmeldung / Registrierung](https://guestsguide.com/cms)
