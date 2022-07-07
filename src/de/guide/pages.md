@@ -19,7 +19,8 @@ Die Eingabemaske baut sich wie folgt auf:
 - Wahlfeld Zeitaktivierung
 - Drag & Drop Felder für Ihr Icon oder Ihre Bilder
 
-::: tip Haben Sie Ihre Seiten angelegt können Sie sie mit gedrückter linker Maustaste sortieren. Sie können die Reihenfolge ändern oder Seiten als  Unterseiten anlegen. Dazu ziehen Sie die Seiten mit gedrückter linker Maustaste nach rechts. Die Hauptseite ist dann die dadrüberliegende Seite.
+::: tip 
+Haben Sie Ihre Seiten angelegt können Sie sie mit gedrückter linker Maustaste sortieren. Sie können die Reihenfolge ändern oder Seiten als  Unterseiten anlegen. Dazu ziehen Sie die Seiten mit gedrückter linker Maustaste nach rechts. Die Hauptseite ist dann die dadrüberliegende Seite.
 :::
 
 ## Sprachen
@@ -29,7 +30,8 @@ Bevor Sie Seiten anlegen, sollten Sie unter dem Punkt `Sprachen` die benötigten
 
 Die Flaggenübersicht zeigt Ihnen alle von Ihnen ausgewählten Sprachen. Der schwarze Rahmen um eine Flagge zeigt die derzeit aktive Sprache. Sie wechseln die Sprache mit einem Klick auf ein Flaggen-Icon. Die Eingabemaske ist für jede Sprache gleich, die Inhalte übertragen sich und Sie können alles in die jeweileige Sprache übersetzen.
 
-:::  danger Die von Ihnen angelegte Seitenstruktur bleibt für jede Sprache gleich. Es ist nicht möglich eine sprachenexklusive Seite anzulegen.
+::: danger Achtung
+Die von Ihnen angelegte Seitenstruktur bleibt für jede Sprache gleich. Es ist nicht möglich eine sprachenexklusive Seite anzulegen.
 :::
 
 ## Titel
@@ -59,7 +61,8 @@ Der Text-Editor gibt Ihnen verschiedene Möglichkeiten Ihren Inhalt darzustellen
 - Buttons
 - Formulare
 
-::: tip Wählen Sie einen fertigen Textabschnitt, Tabelle o.ä. mit dem Curser aus, erscheint am rechten Tand ein kleines Quadrat mit einem Pop Up Menü mit speziellen Menüpunkten.
+::: tip 
+Wählen Sie einen fertigen Textabschnitt, Tabelle o.ä. mit dem Curser aus, erscheint am rechten Tand ein kleines Quadrat mit einem Pop Up Menü mit speziellen Menüpunkten.
 :::
 
 #### Text
@@ -74,24 +77,28 @@ Nutzen Sie diese Einstellung, wenn Sie einen Fließtext einsetzen möchten. Durc
 
 #### Link
 
-::: tip Mit der Taste `Enter` beginnte ein neuer Absatz; mit `Enter` und `Shift` beginnt ein neuer Zeilenumbruch.
+::: tip 
+Mit der Taste `Enter` beginnte ein neuer Absatz; mit `Enter` und `Shift` beginnt ein neuer Zeilenumbruch.
 :::
 
-::: tip Pop Up Quadrat: Verschieben Sie Ihren Textabschnitt nach oben oder nach unten, oder löschen Sie ihn.
+::: tip 
+Pop Up Quadrat: Verschieben Sie Ihren Textabschnitt nach oben oder nach unten, oder löschen Sie ihn.
 :::
 
 #### Aufzählung
 
 Manchmal sind Aufzählungen unerlässlich. Wählen Sie im Texteditor die Funktion `List`. Geben Sie Ihren Text ein und klicken Sie `Enter`. Der zweite Aufzählungspunkt erscheint usw.. Klicken Sie zweimal hintereinander auf `Enter` ohne Text einzugeben ist die Aufzählung beendet und der Text beginnt wieder ohne Einzug.
 
-::: tip Pop Up Quadrat: Wählen Sie zwischen einer nummerierten (ordered) oder einer unnumerierten (unordered) Aufzählung. Verschieben Sie diesen Abschnitt nach oben oder nach unten, oder löschen Sie ihn.
+::: tip 
+Pop Up Quadrat: Wählen Sie zwischen einer nummerierten (ordered) oder einer unnumerierten (unordered) Aufzählung. Verschieben Sie diesen Abschnitt nach oben oder nach unten, oder löschen Sie ihn.
 :::
 
 #### Checkliste
 
 Die Checkliste ähnelt der Aufzählung, ist aber eher dafür geeignet z.B. Zimmer mit unterschiedlichen Features einfach darzustellen. Die Handhabung ist die gleiche wie bei der Aufzählung. Im Gegensatz zur Aufzählung gibt es hier aber Kreise als Aufzählungszeichen, die sie mit einem Klick `abhacken` können. 
 
-::: tip Pop Up Quadrat: Verschieben Sie diesen Abschnitt nach oben oder nach unten, oder löschen Sie ihn.
+::: tip 
+Pop Up Quadrat: Verschieben Sie diesen Abschnitt nach oben oder nach unten, oder löschen Sie ihn.
 :::
 
 #### Tabelle
@@ -116,28 +123,32 @@ Quadrat oberhalb:
 
 Klicken Sie in ein Kästchen um Ihren Text einzugeben.
 
-::: tip Pop Up Quadrat: Erstellen Sie eine Tabelle mit oder ohne Überschriften. Verschieben Sie diesen Abschnitt nach oben oder nach unten, oder löschen Sie ihn.
+::: tip 
+Pop Up Quadrat: Erstellen Sie eine Tabelle mit oder ohne Überschriften. Verschieben Sie diesen Abschnitt nach oben oder nach unten, oder löschen Sie ihn.
 :::
 
 #### Überschrift
 
 Nehmen Sie eine Überschrift zur besseren Gliederung Ihrer Texte.
 
-::: tip Pop Up Quadrat: Wählen Sie zwischen einer H2 oder einer H3. Verschieben Sie diesen Abschnitt nach oben oder nach unten, oder löschen Sie ihn.
+::: tip 
+Pop Up Quadrat: Wählen Sie zwischen einer H2 oder einer H3. Verschieben Sie diesen Abschnitt nach oben oder nach unten, oder löschen Sie ihn.
 :::
 
 #### Karte
 
 Klicken Sie auf `Google Map` und geben den gesuchten Standort ein. Auf der Seite Ihres Guides wird dann eine Kartenansicht von Google Map dargestellt.
 
-::: tip Pop Up Quadrat: Verschieben Sie diesen Abschnitt nach oben oder nach unten, oder löschen Sie ihn.
+::: tip 
+Pop Up Quadrat: Verschieben Sie diesen Abschnitt nach oben oder nach unten, oder löschen Sie ihn.
 :::
 
 #### Button
 
 Mit einem Button können Sie Links zu anderen, externen Webseiten einfügen. Klicken Sie einfach auf `Button` und geben Sie den Link ein. Mit Klick auf das `Plus-Icon` können Sie weitere Buttons hinzufügen.
 
-::: tip Pop Up Quadrat: Verschieben Sie diesen Abschnitt nach oben oder nach unten, oder löschen Sie ihn.
+::: tip 
+Pop Up Quadrat: Verschieben Sie diesen Abschnitt nach oben oder nach unten, oder löschen Sie ihn.
 :::
 
 #### Formular
