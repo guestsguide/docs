@@ -1,5 +1,5 @@
 ---
-title: Basic
+title: Paket Basic
 sidebarDepth: 0
 ---
 # Paket Basic
@@ -16,3 +16,5 @@ Natürlich können Sie Ihren Guide mit allen Einstellungen anpassen und somit vo
 - Smiley-Modul
 - Wetter-Übersicht
 - Externe Links
+
+[Jetzt gratis ausprobieren](https://guestsguide.com/cms)
