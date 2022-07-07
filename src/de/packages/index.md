@@ -5,4 +5,6 @@
 - [Standard](standard)
 - [Premium](premium)
 
-[Jetzt gratis ausprobieren](https://guestsguide.com/cms)
+## Jetzt gratis ausprobieren
+
+[Zur Anmeldung / Registrierung](https://guestsguide.com/cms)
