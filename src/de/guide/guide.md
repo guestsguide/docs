@@ -24,6 +24,8 @@ Klicken Sie dann einfach auf `Speichern`. Ein grünes Aufleuchten des `Speichern
 
 ## Vorläufige Domain
 
+<!-- ![](./img/vorlaeufige-domain.jpg) -->
+
 Sie erreichen Sie Ihren schönen neuen Guide im Internet ganz bequem über die vorläufige Domain. Diese wurde Ihnen zugewiesen und kann nicht geändert werden, es steht Ihnen aber selbstverständlich frei diese zu benutzen, stattdessen können Sie auch Ihre eigene Domain connecten.
 
 ## Eigene Domain
