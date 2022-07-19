@@ -10,7 +10,9 @@ Sie können Guests Guide Ihren Standort mitteilen. Dieser Standort wird für das
 
 Das Smiley Widget ist eine schöne Methode Feedback von Ihren Gästen zu erhalten. Die Gäste können auf den großen Button mit dem Smiley klicken, der Ihrer Gemütslage am nächsten ist. Anschließend wird der Gast auf ein Kontaktformular weitergeleitet, in dem dieser detailiert die Möglichkeit seinem Gemüt in schriftform Ausdruck zu verleichen. 
 
+::: tip Kontaktformular
 Folgende Felder werden abgefragt: `Fragen und/oder Anmerkungen`, `Name`, `E-Mail Adresse`, `Telefonnummer` und `Unterkunftsnummer`. Keines dieser Felder ist ein Pflichtfeld und muss dementsprechend nicht vom Gast ausgefüllt werden, dies kann nicht geändert werden.
+:::
 
 ## Wetter Widget
 
@@ -29,7 +31,9 @@ Mit dem Wetter Widget können Sie Ihren Gästen umfassende Wetter-Informationen 
 
 Mit einem Klik auf den Pfeil im Wetter Widget erhält der Gast eine Wetterüberischt der nächsten 7 Tage.
 
+::: tip Aktivierung
 Das Wetter Widget automatisiert sich selbstständig, sobald Sie einmal Ihren Ort angegeben haben, müssen Sie nichts weiter machen.
+:::
 
 ## Route-Button
 

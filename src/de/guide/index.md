@@ -3,6 +3,8 @@ title: Übersicht
 sidebarDepth: 0
 ---
 
+<img src="https://cdn.guestsguide.com/assets/images/guests-guide-logo.svg" alt="Guests Guide Logo" width="150" style="margin-top: 3em; margin-bottom: 0em;">
+
 # Herzlich Willkommen
 
 Die Freizeit gehört zur schönsten Zeit des Jahres. Viele Menschen zieht es in dieser Zeit an einen neuen Ort, das heißt neue Menschen kennen lernen und vor allem eine neue Unterkunft und Umgebung erkunden.

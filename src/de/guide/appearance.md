@@ -5,6 +5,8 @@ title: Aussehen
 
 Guests Guide ist eine White-Label Plattform, das heißt, dass Sie sie komplett Ihrem CI anpassen können.
 
+<img src="https://img.guestsguide.com/750xAUTO/media/1649499667_TFgP0HcEnUXv9yC1awxU.jpg" srcset="https://img.guestsguide.com/750xAUTO/media/1649499667_TFgP0HcEnUXv9yC1awxU.jpg 1x, https://img.guestsguide.com/1500xAUTO/media/1649499667_TFgP0HcEnUXv9yC1awxU.jpg 2x" alt="Guests Guide Stil des Hauses" />
+
 ## Logo
 
 Laden Sie Ihr Firmenlogo hoch, das später in der Web-App angezeigt wird.
