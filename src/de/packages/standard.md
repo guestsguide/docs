@@ -9,7 +9,7 @@ Unser mittleres Paket **Standard** eigenet sich am besten für kleine und mittel
 Natürlich können Sie Ihren Guide mit allen Einstellungen anpassen und somit vollumfänglich dem Stil Ihres Hauses anpassen.
 
 ::: tip Aktuelle Preise
-Das Paket **Standard** kostet **79,00 € monatlich** oder **860,00 jährlich** (-10%)
+Das Paket **Standard** kostet **79,00 € monatlich** oder **869,00 jährlich** (-8%)
 :::
 
 ## Leitungen

@@ -9,7 +9,7 @@ Unser kleinstes Paket **Basic** eignet sich am besten für kleine Gaststätten m
 Natürlich können Sie Ihren Guide mit allen Einstellungen anpassen und somit vollumfänglich dem Stil Ihres Hauses anpassen.
 
 ::: tip Aktuelle Preise
-Das Paket **Basic** kostet **49,00 € monatlich** oder **560,00 € jährlich** (-5 %)
+Das Paket **Basic** kostet **49,00 € monatlich** oder **559,00 € jährlich** (-5 %)
 :::
 
 ## Leitungen

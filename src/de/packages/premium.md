@@ -9,7 +9,7 @@ Unser größtes Paket **Premium** eignet sich am besten für mittelgroße bis gr
 Natürlich können Sie Ihren Guide mit allen Einstellungen anpassen und somit vollumfänglich dem Stil Ihres Hauses anpassen.
 
 ::: tip Aktuelle Preise
-Das Paket **Premium** kostet **125,00 € monatlich** oder **1.250,00 € jährlich** (-20 %)
+Das Paket **Premium** kostet **125,00 € monatlich** oder **1.349,00 € jährlich** (-10 %)
 :::
 
 ## Leitungen
