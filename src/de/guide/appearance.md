@@ -21,16 +21,22 @@ Ein Favicon ist das App-Icon Ihres Guides. Es wird auf dem Home-Bildschirm auf S
 
 Das Favicon sollte eine Größe von `512 x 512 px` haben. Es können nur PNG- oder JPG Bilder hochgeladen werden.
 
-## Seiten Hintergrund
+## Seiten
 
 Wählen Sie hier die Farben für den Hintergrund Ihres Guests Guide und die Schriftfarbe für die gesamte Web-App. Wählen Sie einfach einen Farbton aus oder geben Sie einen bestimmten Farbton ein. Klicken Sie hierfür auf das Farbfeld und es öffnet sich ein Farbwähler.
 
 ## Menü-Leiste
 
+![Guests Guide Logo](https://img.guestsguide.com/1480xAUTO/media/1660476164_SpTwTfnjPBhlBXW7mBk5.jpg)
+
 Wählen Sie hier die Farben und die Schriftfarbe für Ihr Menü. Wählen Sie einfach einen Farbton aus oder geben Sie einen bestimmten Farbton ein. Klicken Sie hierfür auf das Farbfeld und es öffnet sich ein Farbwähler.
 
+Die Schriftfarbe bestimmt die Farbe des Route-Icons, falls Sie dieses aktiviert haben.
 
 ## Listen
+
+<!-- TODO Section-Image Bild -->
+<!-- TODO Beschreibung "Listen Groß" -->
 
 Wählen Sie hier die Farben und die Schriftfarbe für Ihre Listen. Wählen Sie einfach einen Farbton aus oder geben Sie einen bestimmten Farbton ein. Klicken Sie hierfür auf das Farbfeld und es öffnet sich ein Farbwähler.
 
@@ -38,11 +44,27 @@ Wählen Sie hier die Farben und die Schriftfarbe für Ihre Listen. Wählen Sie e
 
 Wählen Sie hier die Farben und die Schriftfarbe für Ihre Boxen. Wählen Sie einfach einen Farbton aus oder geben Sie einen bestimmten Farbton ein. Klicken Sie hierfür auf das Farbfeld und es öffnet sich ein Farbwähler.
 
+## Buttons
+
+<!-- TODO Text & Bild hinzufügen -->
+
+::: warning Wird noch weiter Ausgearbeitet und folgt in Kürze. 
+:::
+
+## Smiley Widget
+
+<!-- TODO Text & Bild hinzufügen -->
+
+::: warning Wird noch weiter Ausgearbeitet und folgt in Kürze. 
+:::
+
 ## Wetter-Widget
 
 ![Guests Guide Wetter-Widget](https://img.guestsguide.com/1480xAUTO/media/1660476322_c8KGTnwUHwAgzEC4G4Ia.jpg)
 
-Sie können auch das Wetter Widget ganz nach Ihren Vorstellungen stylen.
+Sie können auch das Wetter Widget ganz nach Ihren Vorstellungen stylen. Bestimmen Sie die Hintergrund-, die Schrift-, sowie Symbolfarbe. 
+
+Zusätzlich können Sie auf Tablets und Desktop-Geräten die Farbe des Wetter-Icons, sowie dessen Hintergrund festlegen.
 
 ## Schriftart
 
