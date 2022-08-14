@@ -3,17 +3,19 @@ title: Aussehen
 ---
 # Aussehen
 
+![Guests Guide Stil des Hauses](https://img.guestsguide.com/1480xAUTO/media/1660476163_tpDGCLB1VVbj23rIeGE5.jpg)
+
 Guests Guide ist eine White-Label Plattform, das heißt, Sie können diese an den Stil Ihres Hauses (CI) anpassen.
 
-<img src="https://img.guestsguide.com/750xAUTO/media/1649499667_TFgP0HcEnUXv9yC1awxU.jpg" srcset="https://img.guestsguide.com/750xAUTO/media/1649499667_TFgP0HcEnUXv9yC1awxU.jpg 1x, https://img.guestsguide.com/1500xAUTO/media/1649499667_TFgP0HcEnUXv9yC1awxU.jpg 2x" alt="Guests Guide Stil des Hauses" />
-
 ## Logo
+
+![Guests Guide Logo](https://img.guestsguide.com/1480xAUTO/media/1660476164_SpTwTfnjPBhlBXW7mBk5.jpg)
 
 Laden Sie Ihr Firmenlogo hoch, das später in der Web-App angezeigt wird. Ihr Logo wird in der Menü-Leiste angezeigt. Optimal ist ein SVG-Bild oder ein PNG-Bild mit transparentem Hintergrund in der Größe `412 x 140 px`. Sie können allerdings auch ein JPG-Bild hochladen, dieses sollte aber vom Hintergrund der Menü-Leiste entsprechen.
 
 ## Favicon
 
-![](https://img.guestsguide.com/1480xAUTO/media/1647175947_OaSSI9ErMEZv2MN6cyxa.jpg)
+![Guests Guide Favicon](https://img.guestsguide.com/1480xAUTO/media/1660476165_8BO4vsBHUzw1CNexJdAj.jpg)
 
 Ein Favicon ist das App-Icon Ihres Guides. Es wird auf dem Home-Bildschirm auf Smart-Phones dargestellt, wenn Ihr Guide als Home-Lesezeichen installiert wird. 
 
@@ -37,6 +39,8 @@ Wählen Sie hier die Farben und die Schriftfarbe für Ihre Listen. Wählen Sie e
 Wählen Sie hier die Farben und die Schriftfarbe für Ihre Boxen. Wählen Sie einfach einen Farbton aus oder geben Sie einen bestimmten Farbton ein. Klicken Sie hierfür auf das Farbfeld und es öffnet sich ein Farbwähler.
 
 ## Wetter-Widget
+
+![Guests Guide Wetter-Widget](https://img.guestsguide.com/1480xAUTO/media/1660476322_c8KGTnwUHwAgzEC4G4Ia.jpg)
 
 Sie können auch das Wetter Widget ganz nach Ihren Vorstellungen stylen.
 
