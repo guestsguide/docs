@@ -1,5 +1,5 @@
 ---
-title: Für Hotels
+title: Hotels
 sidebarDepth: 0
 ---
 
@@ -10,7 +10,7 @@ Sie möchten Ihrem Gast einen komfortablen und erholsamen Urlaub bieten. Dafür 
 Wir bieten Ihnen eine White-Label-Plattform, die Sie ganz nach Ihrem CI, Ihren Wünschen und Vorstellungen gestalten können. Hier können Sie alle relevanten Informationen gebündelt und übersichtlich für jeden Gast bereit stellen.
 Es geht nicht darum, Ihre Webseite nach zu bauen oder potentielle Gäste für Sie zu begeistern, sondern den Aufenthalt Ihres Gastes noch besser und einfacher zu machen.
 
-Sehen Sie den Guests Guide als mobiles Handbuch und FAQ für Ihren Gast, als leeres Blatt für all die Informationen die Ihr Gast bei Ankunft und während seines Aufenthaltes bei Ihnen brauchen könnte. Welche Informationen Ihr Guests Guide beinhalten soll, entscheiden Sie und Ihre Erfahrung. Bestimmt gibt es Fragen, die immer wieder auftauchen, für genau diese Fälle ist der Guests Guide konzipiert.
+Sehen Sie den Guests Guide als mobiles Handbuch und F.A.Q. für Ihren Gast, als leeres Blatt für all die Informationen die Ihr Gast bei Ankunft und während seines Aufenthaltes bei Ihnen brauchen könnte. Welche Informationen Ihr Guests Guide beinhalten soll, entscheiden Sie und Ihre Erfahrung. Bestimmt gibt es Fragen, die immer wieder auftauchen, für genau diese Fälle ist der Guests Guide konzipiert.
 
 ## Generelle Informationen
 

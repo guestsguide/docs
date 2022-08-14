@@ -50,6 +50,9 @@ const config = {
         selectLanguageText: "Sprachen",
         selectLanguageName: "Deutsch",
         editLinkText: "Diese Seite auf GitHub bearbeiten",
+        tip: "TIPP",
+        warning: "ACHTUNG",
+        danger: "AUFGEPASST",
       },
     },
     sidebar: {

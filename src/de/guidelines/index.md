@@ -3,9 +3,10 @@ title: Übersicht
 sidebarDepth: 0
 ---
 
-# Leitfäden
+# Leitfäden im Überblick
 
 - [Leitfaden für Hotels](hotels)
-- [Leitfaden für Krankenhäuser](hospitals)
 - [Leitfaden für Ferienparks](parks)
-- [Leitfaden für Schwimmbäder](water-parks)
+- Leitfaden für Krankenhäuser (folgt in Kürze)
+- Leitfaden für Schwimmbäder (folgt in Kürze)
+- Leitfaden für Reisegruppen (folgt in Kürze)
