@@ -22,8 +22,8 @@
   },
   {
     "text": "Pakete",
-    "link": "packages/",
     "children": [
+      "/de/packages/",
       "/de/packages/basic",
       "/de/packages/standard",
       "/de/packages/premium",
