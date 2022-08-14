@@ -51,18 +51,17 @@ Wählen Sie hier die Farben und die Schriftfarbe für Ihre Boxen. Wählen Sie ei
 ::: warning Wird noch weiter Ausgearbeitet und folgt in Kürze. 
 :::
 
-## Smiley Widget
+## Smiley-Widget
 
-<!-- TODO Text & Bild hinzufügen -->
+<!-- TODO Section-Image Bild -->
 
-::: warning Wird noch weiter Ausgearbeitet und folgt in Kürze. 
-:::
+Sie können das Smiley-Widget ganz nach Ihren Vorstellungen stylen. Bestimmen Sie die Hintergrund-, die Schrift-, sowie Symbolfarbe. 
 
 ## Wetter-Widget
 
 ![Guests Guide Wetter-Widget](https://img.guestsguide.com/1480xAUTO/media/1660476322_c8KGTnwUHwAgzEC4G4Ia.jpg)
 
-Sie können auch das Wetter Widget ganz nach Ihren Vorstellungen stylen. Bestimmen Sie die Hintergrund-, die Schrift-, sowie Symbolfarbe. 
+Sie können das Wetter-Widget ganz nach Ihren Vorstellungen stylen. Bestimmen Sie die Hintergrund-, die Schrift-, sowie Symbolfarbe. 
 
 Zusätzlich können Sie auf Tablets und Desktop-Geräten die Farbe des Wetter-Icons, sowie dessen Hintergrund festlegen.
 
