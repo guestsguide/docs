@@ -11,7 +11,7 @@ Die Freizeit gehört zur schönsten Zeit des Jahres. Viele Menschen zieht es in 
 
 Bei der Planung oder während des Aufenthalts können ein paar Fragen aufkommen: Gibt es ein gutes Restaurant in der Nähe? Wie wird das Wetter während meines Aufenthalts? Wenn es nötig sein sollte, wo ist der nächste Arzt? Wann ist die Rezeption geöffnet und wie erreiche ich sie? Und bestimmt tauchen viele Fragen auch öfters auf, sicherlich kennen Sie das.
 
-Dafür haben wir eine Lösung entwickelt. Guests Guide beitet Ihnen die Möglichkeit alle Informationen, rum um Ihre Unterkunft und die Umgebung, in einer praktischen Web-App zu bündeln. Aktuell, digital, papierlos, im Stil Ihres Hauses und unter Ihrer Domain.
+Dafür haben wir eine Lösung entwickelt. Guests Guide beitet Ihnen die Möglichkeit alle Informationen, rund um Ihre Unterkunft und die Umgebung, in einer praktischen Web-App zu bündeln. Aktuell, digital, papierlos, im Stil Ihres Hauses und unter Ihrer Domain.
 
 Gleichzeitig haben Gäste mit unserem Smiley Modul eine einfache Möglichkeit, Ihnen schon während ihres Aufenthaltes Feedback zu geben. Sie können direkt darauf reagieren, Missverständnisse ermeiden und Probleme lösen. Lassen Sie sich von unserem Beispiel überzeiten: [demo.guestsguide.com](https://demo.guestsguide.com).
 
