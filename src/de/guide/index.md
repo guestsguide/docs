@@ -13,9 +13,9 @@ Bei der Planung oder während des Aufenthalts können ein paar Fragen aufkommen:
 
 Dafür haben wir eine Lösung entwickelt. Guests Guide beitet Ihnen die Möglichkeit alle Informationen, rund um Ihre Unterkunft und die Umgebung, in einer praktischen Web-App zu bündeln. Aktuell, digital, papierlos, im Stil Ihres Hauses und unter Ihrer Domain.
 
-Gleichzeitig haben Gäste mit unserem Smiley Modul eine einfache Möglichkeit, Ihnen schon während ihres Aufenthaltes Feedback zu geben. Sie können direkt darauf reagieren, Missverständnisse ermeiden und Probleme lösen. Lassen Sie sich von unserem Beispiel überzeiten: [demo.guestsguide.com](https://demo.guestsguide.com).
+Gleichzeitig haben Gäste mit unserem Smiley Modul eine einfache Möglichkeit, Ihnen schon während ihres Aufenthaltes Feedback zu geben. Sie können direkt darauf reagieren, Missverständnisse ermeiden und Probleme lösen. Lassen Sie sich von unserem Beispiel überzeugen: [demo.guestsguide.com](https://demo.guestsguide.com).
 
-Spraen Sie sich mit Ihrem Guide Papiermüll und das mühselige und zeitaufwendige Ändern jedes einzelnen Hausprospektes. Bieten Sie Ihren Gästen einen umfangreichen, digitalen Kundenservice, den er immer mit sich trägt.
+Sparen Sie sich mit Ihrem Guide Papiermüll und das mühselige und zeitaufwendige Ändern jedes einzelnen Hausprospektes. Bieten Sie Ihren Gästen einen umfangreichen, digitalen Kundenservice, den er immer mit sich trägt.
 
 Ihre Gäste brauchen beim Check-In nur einen [QR-Code scannen](/de/guide/guide.html#qr-code) und schon liegen alle Informationen vor, kein Herunterladen, keine Registrierung.
 
