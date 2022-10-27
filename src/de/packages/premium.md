@@ -9,7 +9,8 @@ Unser größtes Paket **Premium** eignet sich am besten für mittelgroße bis gr
 Natürlich können Sie Ihren Guide mit allen Einstellungen anpassen und somit vollumfänglich dem Stil Ihres Hauses anpassen.
 
 ::: tip Aktuelle Preise
-Das Paket **Premium** kostet **125,00 € monatlich** oder **1.349,00 € jährlich** (-10 %)
+Das Paket **Premium** kostet **125,00 €**<sup>1</sup> monatlich oder **1.349,00 €**<sup>1</sup> jährlich (-10 %)  
+Optionale Einrichtung: **1.495,00 €**<sup>1</sup>
 :::
 
 ## Leitungen
@@ -27,3 +28,7 @@ Das Paket **Premium** kostet **125,00 € monatlich** oder **1.349,00 € jährl
 ## Jetzt gratis ausprobieren
 
 [Zur Anmeldung / Registrierung](https://guestsguide.com/cms)
+
+---
+
+<sup>1</sup> zzgl. 19 % MwSt.

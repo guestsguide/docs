@@ -9,7 +9,8 @@ Unser kleinstes Paket **Basic** eignet sich am besten für kleine Gaststätten m
 Natürlich können Sie Ihren Guide mit allen Einstellungen anpassen und somit vollumfänglich dem Stil Ihres Hauses anpassen.
 
 ::: tip Aktuelle Preise
-Das Paket **Basic** kostet **49,00 € monatlich** oder **559,00 € jährlich** (-5 %)
+Das Paket **Basic** kostet **49,00 €**<sup>1</sup> monatlich oder **559,00 €**<sup>1</sup> jährlich (-5 %)  
+Optionale Einrichtung: **695,00 €**<sup>1</sup>
 :::
 
 ## Leitungen
@@ -24,3 +25,7 @@ Das Paket **Basic** kostet **49,00 € monatlich** oder **559,00 € jährlich**
 ## Jetzt gratis ausprobieren
 
 [Zur Anmeldung / Registrierung](https://guestsguide.com/cms)
+
+---
+
+<sup>1</sup> zzgl. 19 % MwSt.
