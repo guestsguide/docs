@@ -13,7 +13,7 @@ Das Paket **Premium** kostet **125,00 €**<sup>1</sup> monatlich oder **1.349,0
 Optionale Einrichtung: **1.495,00 €**<sup>1</sup>
 :::
 
-## Leitungen
+## Leistungen
 
 - Unbegrenzt viele Seiten
 - 5 Sprachen

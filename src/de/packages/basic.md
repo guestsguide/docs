@@ -13,7 +13,7 @@ Das Paket **Basic** kostet **49,00 €**<sup>1</sup> monatlich oder **559,00 €
 Optionale Einrichtung: **695,00 €**<sup>1</sup>
 :::
 
-## Leitungen
+## Leistungen
 
 - 15 Seiten
 - 2 Sprachen

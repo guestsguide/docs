@@ -12,7 +12,7 @@ Lernen Sie unverbindlich alle Leistungen kennen und entscheiden Sie im Anschluss
 Das kostenlose Paket ist nicht für den Live-Betrieb vorgesehen und ist öffentlich nicht zugänglich!
 :::
 
-## Leitungen
+## Leistungen
 
 - 5 Seiten
 - 2 Sprachen
