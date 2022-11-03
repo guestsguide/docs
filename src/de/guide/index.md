@@ -76,7 +76,7 @@ Gestalten Sie für Ihren Kunden einen exzellenten Aufenthalt in Ihrem Hotel, son
 
 ### Flexibel
 
-Sie können jederzeit zwischen unseren attraktiven Preispaketen wehseln - so wie es gerade zu Ihren Bedürfnissen passt.
+Sie können jederzeit zwischen unseren attraktiven Preispaketen wechseln - so wie es gerade zu Ihren Bedürfnissen passt.
 
 
 <img src="https://cdn.guestsguide.com/media/1644659178_xnBxrUDhek9cdyDku0BI.png" width="60" style="margin-bottom: -1em">
