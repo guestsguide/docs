@@ -18,7 +18,7 @@ Die Seiten werden nicht automatish übersetzt, sie können für jede Seite eine 
 
 Die Reihenfolge der angezeigten Sprachen können sie verändern, indem Sie die Sprache per Drag & Drop an die richtige Position schieben. 
 
-Die vorausgewählte Standardsprache können Sie verändern, in dem sie die gewünschte Sprache an die erste Position schieben. Diese Sprache kann dann nicht gelöscht werden.
+Die vorausgewählte Standardsprache können Sie verändern, in dem Sie die gewünschte Sprache an die erste Position schieben. Diese Sprache kann dann nicht gelöscht werden.
 
 ## Sprache aktivieren
 
@@ -28,4 +28,4 @@ Sobald sie für alle Seiten eine Übersetzung hinterlegt haben, können sie die 
 
 ## Sprache löschen
 
-Sie können eine Sprache wieder löschen, wenn sie mit der Maus über die Sprache gehen und anschließend auf das Symbol `Papierkorb` anklicken.
+Sie können eine Sprache wieder löschen, wenn Sie mit der Maus über die Sprache gehen und anschließend auf das Symbol `Papierkorb` anklicken.
