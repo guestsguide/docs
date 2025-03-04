@@ -1,9 +1,12 @@
+import { viteBundler } from "@vuepress/bundler-vite";
+import { defineUserConfig } from "vuepress";
 import { defaultTheme } from "@vuepress/theme-default";
 const { description } = require("../../package");
 
 const config = {
   title: "Guests Guide Docs",
   description: description,
+  bundler: viteBundler(),
   base: "/",
   head: [
     ["meta", { name: "theme-color", content: "#000000" }],
@@ -41,7 +44,7 @@ const config = {
       },
     ],
     locales: {
-      "/en/": {
+      "/": {
         selectLanguageText: "Languages",
         selectLanguageName: "English",
         editLinkText: "Edit this page on GitHub",
@@ -56,49 +59,19 @@ const config = {
       },
     },
     sidebar: {
-      "/en/": require("../en/sidebar.json"),
+      "/": require("../sidebar.json"),
       "/de/": require("../de/sidebar.json"),
     },
   }),
   locales: {
-    "/en/": {
+    "/": {
       lang: "en_US",
     },
     "/de/": {
       lang: "de_DE",
     },
   },
-  plugins: [
-    [
-      "@vuepress/plugin-search",
-      {
-        locales: {
-          "/de/": {
-            placeholder: "Suche",
-          },
-          "/en/": {
-            placeholder: "Search",
-          },
-        },
-      },
-    ],
-    [
-      "@vuepress/plugin-external-link-icon",
-      {
-        locales: {
-          "/en/": {
-            openInNewWindow: "open in new window",
-          },
-          "/de/": {
-            openInNewWindow: "In neuem Fenster öffnen",
-          },
-          "/zh/": {
-            openInNewWindow: "在新窗口打开",
-          },
-        },
-      },
-    ],
-  ],
+  plugins: [],
 };
 
-module.exports = config;
+export default defineUserConfig(config);

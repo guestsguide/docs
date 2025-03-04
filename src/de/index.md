@@ -5,7 +5,7 @@ tagline: Dokumentation
 actions:
   - text: Jetzt starten →
     link: /de/guide/
-footer: © 2022 Guests Guide
+footer: © 2025 Guests Guide
 features: 
   - title: Registrierung
     details: Die Erstellung eines eigenen Guides ist ganz einfach und dauert nur Sekunden.

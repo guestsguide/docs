@@ -1,0 +1,28 @@
+[
+  {
+    "text": "Guide",
+    "children": [
+      "/guide/",
+      "/guide/guide",
+      "/guide/languages",
+      "/guide/pages",
+      "/guide/appearance",
+      "/guide/settings"
+    ]
+  },
+  {
+    "text": "Leitfäden",
+    "children": ["/guidelines/", "/guidelines/hotels", "/guidelines/parks"]
+  },
+  {
+    "text": "Packages",
+    "link": "/packages/",
+    "children": [
+      "/packages/",
+      "/packages/basic",
+      "/packages/standard",
+      "/packages/premium",
+      "/packages/free"
+    ]
+  }
+]
