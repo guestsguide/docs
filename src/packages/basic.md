@@ -4,11 +4,11 @@ sidebarDepth: 0
 ---
 # Package Basic
 
-## Leitungen
+## Lines
 
-- 15 Seiten
-- 2 Sprachen
-- Logo & Stil des Hauses
-- Smiley-Modul
-- Wetter-Übersicht
-- Externe Links
+- 15 pages
+- 2 languages
+- Logo & style of the house
+- Smiley module
+- Weather overview
+- External links

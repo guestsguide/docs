@@ -4,16 +4,16 @@ sidebarDepth: 0
 ---
 # Package Free
 
-:::danger Achtung
-Das kostenlose Paket ist nicht für den Live-Betrieb vorgesehen und ist öffentlich nicht zugänglich
+:::danger Attention
+The free package is not intended for live operation and is not publicly accessible
 :::
 
-## Leitungen
+## Lines
 
-- 5 Seiten
-- 2 Sprachen
-- Logo & Stil des Hauses
-- Smiley-Modul
-- Wetter-Übersicht
-- Externe Links
-- Guide ist nicht öffentlich zugänglich!
+- 5 pages
+- 2 languages
+- Logo & style of the house
+- Smiley module
+- Weather overview
+- External links
+- Guide is not publicly accessible!

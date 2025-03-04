@@ -1,39 +1,39 @@
 ---
-title: Ferienparks
+title: Holiday parks
 sidebarDepth: 0
 ---
 
-# Leitfaden für Ferienparks
+# Guide to holiday parks
 
-Sie möchten Ihrem Gast einen komfortablen und erholsamen Urlaub bieten. Dafür müssen Sie alle Informationen rund um seinen Aufenthalt zusammenstellen. Die Übertragung von Informationen kann aber leider sehr zeitraubend sein. Trotzdem können Sie darauf nicht verzichten. Hier kommt Guests Guide in Spiel.
+You want to offer your guests a comfortable and relaxing holiday. To do this, you need to collate all the information relating to their stay. Unfortunately, transferring information can be very time-consuming. Nevertheless, you can't do without it. This is where Guests Guide comes into play.
 
-Wir bieten Ihnen eine White-Label-Plattform, die Sie ganz nach Ihrem CI, Ihren Wünschen und Vorstellungen gestalten können. Hier können Sie alle relevanten Informationen gebündelt und übersichtlich für jeden Gast bereit stellen.
-Es geht nicht darum, Ihre Webseite nach zu bauen oder potentielle Gäste für Sie zu begeistern, sondern den Aufenthalt Ihres Gastes noch besser und einfacher zu machen.
+We offer you a white-labelled platform that you can design entirely according to your CI, your wishes and your ideas. Here you can bundle all relevant information and provide it clearly for every guest.
+It's not about recreating your website or getting potential guests excited about you, but about making your guest's stay even better and easier.
 
-Sehen Sie den Guests Guide als mobiles Handbuch und F.A.Q. für Ihren Gast, als leeres Blatt für all die Informationen die Ihr Gast bei Ankunft und während seines Aufenthaltes bei Ihnen brauchen könnte. Welche Informationen Ihr Guests Guide beinhalten soll, entscheiden Sie und Ihre Erfahrung. Bestimmt gibt es Fragen, die immer wieder auftauchen, für genau diese Fälle ist der Guests Guide konzipiert.
+Think of the Guests Guide as a mobile handbook and F.A.Q. for your guest, a blank page for all the information your guest might need on arrival and during their stay with you. You and your experience decide what information your Guests Guide should contain. There are bound to be questions that come up again and again, and the Guests Guide is designed for precisely these cases.
 
-## Generelle Informationen
+## General information
 
-Die Funktionen des Guests Guide bieten Ihnen die Möglichkeit generelle Informationen in einem ansprechenden Design klar und strukturiert einzustellen. Fangen Sie mit den grundlegenden Informationen an, wie 
+The functions of the Guests Guide offer you the opportunity to provide general information in an appealing, clear and structured design. Start with the basic information, such as
 
-- Öffnungszeiten der Rezeption
-- Check-In und Check-Out Zeiten
-- Telefonnummer der Rezeption
-- Frühstückszeiten
-- Öffnungszeiten von angeschlossener Gastronomie
+- Opening hours of the reception
+- Check-in and check-out times
+- Reception telephone number
+- Breakfast times
+- Opening hours of affiliated catering facilities
 
-## Anleitungen
+## Instructions
 
-Erweitern Sie diese Informationen mit spezifischeren Details wie z.B. technischen Begebenheiten des Hotelzimmers oder Ferienwohnung. Zum Beispiel:
+Expand this information with more specific details such as the technical features of the hotel room or holiday flat. For example:
 
-- das Thermostat
-- der Backofen oder
-- die Kaffeemaschine
+- the thermostat
+- the oven or
+- the coffee machine
 
-Mit Informationen, die über Ihr Hotel hinaus gehen erschaffen Sie ein stimmiges Gesamtbild für den Gast. Geben Sie Informationen zu Ihrer Umgebung, Sehenswürdigkeiten, Shopping Möglichkeiten, Adressen des alltäglichen Bedarfs, wie Ärzte o.ä.
+With information that goes beyond your hotel, you create a coherent overall picture for the guest. Provide information about your neighbourhood, places of interest, shopping opportunities, addresses for everyday needs, such as doctors or similar.
 
-Sie können Ihrem Gast so auch tagesaktuelle Informationen kurzfristig und schnell zur Verfügung stellen.
+You can also provide your guests with up-to-date information quickly and at short notice.
 
-## Bewertungen
+## Reviews
 
-Guests Guide soll Ihnen helfen, die Kommunikation zwischen Ihnen und Ihren Gästen zu vereinfachen, Ihren Informationsfluss zu digitalisieren und den Papierverbrauch zu verringern.
+Guests Guide is designed to help you simplify communication between you and your guests, digitise your information flow and reduce paper consumption.

@@ -1,12 +1,12 @@
 ---
-title: Übersicht
+title: Overview
 sidebarDepth: 0
 ---
 
-# Leitfäden im Überblick
+# Guides at a glance
 
-- [Leitfaden für Hotels](hotels)
-- [Leitfaden für Ferienparks](parks)
-- Leitfaden für Krankenhäuser (folgt in Kürze)
-- Leitfaden für Schwimmbäder (folgt in Kürze)
-- Leitfaden für Reisegruppen (folgt in Kürze)
+- [Guide for hotels](hotels)
+- [Guide for holiday parks](parks)
+- [Guide for water parks](water-parks)
+- Guide for hospitals (coming soon)
+- Guide for tour groups (coming soon)

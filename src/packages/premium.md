@@ -4,11 +4,11 @@ sidebarDepth: 0
 ---
 # Package Premium
 
-## Leitungen
+## Lines
 
-- Unbegrenzt viele Seiten
-- 5 Sprachen
-- Logo & Stil des Hauses
-- Smiley-Modul
-- Wetter-Übersicht
-- Externe Links
+- Unlimited pages
+- 5 languages
+- Logo & style of the house
+- Smiley module
+- Weather overview
+- External links

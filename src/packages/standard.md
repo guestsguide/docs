@@ -4,11 +4,11 @@ sidebarDepth: 0
 ---
 # Package Standard
 
-## Leitungen
+## Lines
 
-- 30 Seiten
-- 3 Sprachen
-- Logo & Stil des Hauses
-- Smiley-Modul
-- Wetter-Übersicht
-- Externe Links
+- 30 pages
+- 3 languages
+- Logo & style of the house
+- Smiley module
+- Weather overview
+- External links

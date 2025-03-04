@@ -1,79 +1,79 @@
 # Settings
 
-In den Einstellungen können sie Ihren Guide so ausstatten, wie sie es sich wünschen. Keine Lust darauf, das aktuelle Wetter anzeigen zu lassen? Kein Problem.
+In the settings, you can customise your guide as you wish. Don't fancy displaying the current weather? No problem.
 
-## Standort
+## Location
 
-Sie können Guests Guide Ihren Standort mitteilen. Dieser Standort wird für das **Wetter-Widget** benötigt, sowie auch für den **Routen-Button**. Suchen Sie im Eingabefeld nach Ihrem Unternehmen oder Standort und wählen Sie diesen anschließend im Popup-Menü auf. 
+You can tell Guests Guide your location. This location is required for the **weather widget** as well as for the **route button**. Search for your company or location in the input field and then select it from the pop-up menu.
 
-Wir verwenden Google Maps um Ihren Ort zu finden.
+We use Google Maps to find your location.
 
 ## Smiley Widget
 
 ![Guests Guide Logo](https://img.guestsguide.com/1480xAUTO/media/1660479086_rZOTN4jZYGdWUC4GhEs0.jpg)
 
-Das Smiley Widget ist eine schöne Methode Feedback von Ihren Gästen zu erhalten. Die Gäste können auf den großen Button mit dem Smiley klicken, der Ihrer Gemütslage am nächsten ist. Anschließend wird der Gast auf ein Kontaktformular weitergeleitet, in dem dieser detailiert die Möglichkeit seinem Gemüt in schriftform Ausdruck zu verleichen. 
+The Smiley Widget is a nice way to get feedback from your guests. Guests can click on the big button with the smiley that is closest to their mood. The guest is then redirected to a contact form where they can express their mood in writing.
 
-::: tip Kontaktformular
-Folgende Felder werden abgefragt: `Fragen und/oder Anmerkungen`, `Name`, `E-Mail Adresse`, `Telefonnummer` und `Unterkunftsnummer`. Keines dieser Felder ist ein Pflichtfeld und muss dementsprechend nicht vom Gast ausgefüllt werden, dies kann nicht geändert werden.
+::: tip Contact form
+The following fields are requested: `Questions and/or comments`, `Name`, `E-mail address`, `Telephone number` and `Accommodation number`. None of these fields is a mandatory field and therefore does not have to be filled in by the guest, this cannot be changed.
 :::
 
-## Wetter Widget
+## Weather Widget
 
-![Guests Guide Wetter-Widget](https://img.guestsguide.com/1480xAUTO/media/1660476322_c8KGTnwUHwAgzEC4G4Ia.jpg)
+![Guests Guide Weather Widget](https://img.guestsguide.com/1480xAUTO/media/1660476322_c8KGTnwUHwAgzEC4G4Ia.jpg)
 
-Mit dem Wetter Widget können Sie Ihren Gästen umfassende Wetter-Informationen an Ihrem Standort anbieten. Das Wetter Widget zeigt in der Übersicht das aktuelle Wetter vom heutigen Tag, in der detailierten Übersicht bekommt der Gast zudem die Aussichten der nächsten 7 Tage.
+With the weather widget you can offer your guests comprehensive weather information at your location. The weather widget shows in the overview the current weather of today, in the detailed overview the guest also gets the outlook for the next 7 days.
 
-#### Folgende Informationen bietet das Widget an:
+#### The widget provides the following information:
 
-- Datum und Wochentag
-- aktuelle Temperatur mit aktueller Wetteransage
-- Höchst- und Tiefstemperatur
-- Regenwahrscheinlichkeit
-- Luftfeuchtigkeit
-- Windgeschwindigkeit
-- Sonnenwahrscheinlichkeit
-- Sonnenaufgang und Sonnenuntergang
+- Date and day of the week
+- Current temperature with current weather forecast
+- High and low temperature
+- probability of rain
+- air humidity
+- wind speed
+- Probability of sunshine
+- Sunrise and sunset
 
-Mit einem Klik auf den Pfeil im Wetter Widget erhält der Gast eine Wetterüberischt der nächsten 7 Tage.
+By clicking on the arrow in the weather widget, the guest receives a weather overview for the next 7 days.
 
-Das Wetter-Widget wird auf der Startseite Ihres Guides unter den Listen angezeigt.
+The weather widget is displayed on the start page of your guide under the lists.
 
-::: tip Aktivierung
-Das Wetter Widget automatisiert sich selbstständig, sobald Sie einmal Ihren Ort bei **Einstellungen / Standort** angegeben haben, müssen Sie nichts weiter machen.
+::: tip Activation
+The weather widget automates itself automatically, once you have entered your location in **Settings / Location**, you do not need to do anything else.
 :::
 
-## Route-Button
+## Route button
 
-<!-- TODO Eigenes Bild für den Route-Button -->
+<!-- TODO Custom image for the route button -->
 ![Guests Guide Logo](https://img.guestsguide.com/1480xAUTO/media/1660476164_SpTwTfnjPBhlBXW7mBk5.jpg)
 
-Ihre Gäste sind neu in Ihrer Region, da kann man schon einmal schnell die Orientierung verlieren. Mit dem Route-Button ergänzen wir Ihren Guide mit einem kleinen Link zu Google Maps, in dem Ihr Standort schon eingespeichert ist.
+Your guests are new to your region, so it's easy to lose your bearings. With the route button, we supplement your guide with a small link to Google Maps, in which your location is already saved.
 
-Gäste können dann die Navigation von Google Maps nutzen um wieder zu Ihnen zu finden.
+Guests can then use the Google Maps navigation to find their way back to you.
 
-::: tip Aktivierung
-Um den Routen-Button zu aktivieren müssen Sie Ihren Standort bei **Einstellungen / Standort** angeben.
+::: tip Activation
+To activate the route button, you must enter your location in **Settings / Location**.
 :::
 
 ## Social Media Links
 
-<!-- TODO Eigenes Bild für den Route-Button -->
+<!-- TODO Own image for the route button -->
 
-Die Pflege der eigenen Social-Media Kanäle ist wichtig, die neusten Informationen und Events sollten natürlich nicht nur in Ihrem Guide zu finden sein, sondern auch auf Ihren Kanälen. Bringen Sie Ihre Gäste auf den neusten Stand und erhöhen Sie Ihre Reichweiter, in dem Sie Ihre Kanäle mit Ihrem Guide verbinden. Sie können folgenden Social-Media Platformen verlinken:
+Maintaining your own social media channels is important, the latest information and events should of course not only be available in your guide, but also on your channels. Bring your guests up to date and increase your reach by linking your channels to your guide. You can link the following social media platforms:
 
 - Facebook
 - Instagram
 - Twitter
-- Youtube
+- YouTube
 - Pinterest
 
-Ihre Social-Media Links werden auf der Startseite Ihres Guides ganz unten angezeigt.
+Your social media links will be displayed at the bottom of your guide's homepage.
 
-::: tip Aktivierung
-Felder, die leer gelassen werden, werden in Ihrem Guide nicht angezeigt.
+::: tip Activation
+Fields that are left blank will not be displayed in your guide.
 :::
 
-## Weitere Benutzer
+## Other users
 
-Laden Sie weitere Benutzer zu Ihrem Guide ein, um diesen den letzten Schliff zu verpassen, Farben zu ändern oder Texte zu erweitern. Weitere Benutzer haben die selben Benutzerrechte wie Sie.
+Invite other users to your guide to give it the finishing touches, change colours or add text. Other users have the same user rights as you.

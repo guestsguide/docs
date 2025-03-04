@@ -1,53 +1,53 @@
 # My Guide
 
-Registrieren Sie sich bei Guests Guide und wählen Sie ein für sich passendes Abo aus. Sie haben natürlich jederzeit die Möglichkeit Ihre Abo-Einstellungen zu ändern und Ihren Bedürfnissen anzupassen.
+Register with Guests Guide and select a subscription that suits you. You can of course change your subscription settings at any time and customise them to suit your needs.
 
-Beginnen Sie mit einem Klick auf `Neuen Guide anlegen`. 
+Start by clicking on 'Create new guide'.
 
-Sie sehen im Menü Ihre Einstellungsmöglichkeiten:
+You will see your setting options in the menu:
 
-- Mein Guide
-- Sprachen
-- Seiten
-- Aussehen
-- Einstellungen
+- My guide
+- Languages
+- Pages
+- Appearance
+- Settings
 
-Hier finden Sie auch eine Übersicht Ihres Abos, mit der Möglichkeit es aufzuwerten.
+Here you will also find an overview of your subscription, with the option of upgrading it.
 
-Starten Sie mit den elementaren Grundeinstellungen unter `Mein Guide`.
+Start with the basic settings under 'My Guide'.
 
-## Guide Titel
+## Guide title
 
-Geben Sie Ihrem Guide einen Titel. Sie können hier komplett frei wählen. Nehmen sie einfach den Namen Ihres Hotels oder vielleicht gibt es auch eine Kurzform, die Sie in der Kommunikation mit Ihrem Gast verwenden. Sie müssen hier nicht die komplette Geschäftsbezeichnung verwenden. Dieser Name wird im Browser Titel und, bei Installation der Web-App, auf dem Homescreen angezeigt.
+Give your guide a title. You can choose whatever you like here. Simply use the name of your hotel or perhaps there is a short form that you use when communicating with your guests. You do not have to use the complete business name here. This name will be displayed in the browser title and, if the web app is installed, on the home screen.
 
-Klicken Sie dann einfach auf `Speichern`. Ein grünes Aufleuchten des `Speichern`-Buttons signalisiert die Übernahme der Einstellung.
+Then simply click on 'Save'. A green light on the 'Save' button indicates that the setting has been accepted.
 
-## Vorläufige Domain
+## Temporary domain
 
-<!-- ![](./img/vorlaeufige-domain.jpg) -->
+<!-- ![](./img/preliminary-domain.jpg) -->
 
-So erreichen Sie Ihren schönen neuen Guide im Internet ganz bequem über die vorläufige Domain. Diese wurde Ihnen zugewiesen und kann nicht geändert werden, es steht Ihnen aber selbstverständlich frei diese zu benutzen, stattdessen können Sie auch Ihre eigene Domain connecten.
+You can easily access your beautiful new guide on the Internet via the temporary domain. This has been assigned to you and cannot be changed, but you are of course free to use it, or you can connect your own domain instead.
 
-## Eigene Domain
+## Own domain
 
-Guests Guide ist eine White-Label Platform, das bedeutet, das Ihr Guide mit Ihrer eigenen Domain betrieben werden kann. Wir empfehlen das Sie Ihren Guide unter einer Subdomain betreiben, z.B. `guide.example.com`. Um Ihre eigene Domain zu connecten folgen Sie diesen Schritten:
+Guests Guide is a white-labelled platform, which means that your guide can be operated with your own domain. We recommend that you run your guide under a subdomain, e.g. `guide.example.com`. To connect your own domain follow these steps:
 
-1. Tragen Sie die gewünschte Subdomain zzgl. Domain in das Eingabefeld unter **Mein Guide**/**Eigene Domain** ein: `guide.example.com`
-2. Erstellen Sie bei Ihrem Hosting-Provider einen neuen DNS-Records innerhalb Ihrer Domain mit dem **Type** `C-Record`.
-3. Präfix/Name des DNS-Records lautet in unserem Beispiel: `guide`, also der Teil, der vor dem Punkt vor Ihrer Domain steht.
-4. Wert/Value geben Sie so an, wie in der Tabelle vom Bereich `Eigene Domain` angezeigt wird, z.B. `app-XXXXXX.guestsguide.com`
-5. Bestätigen Sie die Änderungen
+1. enter the desired subdomain plus domain in the input field under **My Guide**/**Your own domain**: `guide.example.com`
+2. create a new DNS record at your hosting provider within your domain with the **Type** `C-Record`.
+3. prefix/name of the DNS record in our example is: `guide`, i.e. the part that comes before the dot in front of your domain.
+4. enter the value as shown in the table of the "Own domain" area, e.g. "app-XXXXXX.guestsguide.com".
+5. confirm the changes
 
-Guests Guide überprüft regelmäßig den Status Ihrer DNS Einstellungen und ob Ihre eigene Domain connected wurde. Falls dies erfolgreich geschehen ist, erhalten Sie eine E-Mail von uns.
+Guests Guide regularly checks the status of your DNS settings and whether your own domain has been connected. If this has been done successfully, you will receive an e-mail from us.
 
-::: tip DNS-Umstellungen dauern eine Weile
-Es kann bis zu 24 Stunden dauern, bis der DNS Record weltweit geändert wird und die Änderungen für Sie sichtbar werden.
+::: tip DNS changes take a while
+It can take up to 24 hours for the DNS record to be changed worldwide and for the changes to become visible to you.
 :::
 
-## QR-Code
+## QR code
 
-Scannen Sie den QR-Code um Ihren Guide auf Ihrem Smartphone zu testen oder benutzen Sie diesen QR-Code um Ihren Guide in Werbemitteln zu bewerben. Der Code repräsentiert die vorläufige Domain, soweit keine eigene Domain angegeben wurde, ansonsten verlinkt der Code die eigene Domain.
+Scan the QR code to test your guide on your smartphone or use this QR code to promote your guide in advertising material. The code represents the temporary domain if no own domain has been specified, otherwise the code links to the own domain.
 
-::: tip Download-Größe des QR-Codes
-Sie können sich den QR-Code als hochaufgelöstes JPG-Bild mit 10 x 10 cm bei 300 dpi herunterladen und in Ihrer gedruckten Werbemitteln verwenden.
+::: tip Download size of the QR code
+You can download the QR code as a high-resolution JPG image measuring 10 x 10 cm at 300 dpi and use it in your printed advertising material.
 :::

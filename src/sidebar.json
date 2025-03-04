@@ -11,8 +11,13 @@
     ]
   },
   {
-    "text": "Leitfäden",
-    "children": ["/guidelines/", "/guidelines/hotels", "/guidelines/parks"]
+    "text": "Guidelines",
+    "children": [
+      "/guidelines/",
+      "/guidelines/hotels",
+      "/guidelines/parks",
+      "/guidelines/water-parks"
+    ]
   },
   {
     "text": "Packages",
