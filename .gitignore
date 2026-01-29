@@ -1,16 +1,32 @@
-# OSX
-#
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# astro
+/.astro/
+/dist/
+
+# production
+/build
+
+# misc
 .DS_Store
+*.pem
 
-# node.js
-#
-node_modules/
-npm-debug.log
-yarn-error.log
-package-lock.json
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
 
-# Vuepress
-#
-src/.vuepress/dist
-src/.vuepress/.cache
-src/.vuepress/.temp
+# local env files
+.env*.local
+
+# vercel
+.vercel

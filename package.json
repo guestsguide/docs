@@ -1,22 +1,25 @@
 {
   "name": "guestsguide-docs",
+  "type": "module",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "authors": {
-    "name": "",
-    "email": ""
-  },
-  "repository": "guestsguide/docs",
+  "private": true,
   "scripts": {
-    "dev": "vuepress dev src",
-    "build": "vuepress build src"
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
   },
-  "license": "MIT",
-  "devDependencies": {
-    "@vuepress/bundler-vite": "^2.0.0-rc.20",
-    "@vuepress/theme-default": "^2.0.0-rc.80",
-    "sass-embedded": "^1.85.1",
-    "vuepress": "2.0.0-rc.20"
+  "browserslist": "defaults, not ie <= 11",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guestsguide/docs"
+  },
+  "dependencies": {
+    "@astrojs/starlight": "^0.37.4",
+    "astro": "^5.17.0",
+    "sharp": "^0.33.5"
+  },
+  "engines": {
+    "node": "22"
   }
 }
