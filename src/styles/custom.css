@@ -1,0 +1,49 @@
+/* Inter Font Import */
+@import "@fontsource/inter/400.css";
+@import "@fontsource/inter/500.css";
+@import "@fontsource/inter/600.css";
+@import "@fontsource/inter/700.css";
+
+:root {
+  --sl-font: "Inter", sans-serif;
+}
+
+:root[data-theme="dark"] {
+  /* Hintergrundfarben auf reines Schwarz setzen */
+  --sl-color-bg: #000000;
+  --sl-color-bg-sidebar: #000000;
+  --sl-color-bg-nav: #000000;
+
+  /* Akzentfarben auf Weiß/Grau für CI */
+  --sl-color-white: #ffffff;
+  --sl-color-gray-1: #f0f0f0;
+  --sl-color-gray-2: #c0c0c0;
+  --sl-color-gray-3: #808080;
+  --sl-color-gray-4: #404040;
+  --sl-color-gray-5: #202020;
+  --sl-color-gray-6: #101010;
+  --sl-color-black: #000000;
+
+  /* Border-Farben für Sidebar und Navigation */
+  --sl-color-hairline: #303030;
+  --sl-color-hairline-light: #252525;
+  --sl-color-hairline-shade: #404040;
+
+  /* Akzentfarben entsättigen (Sidebar-Highlight, TOC-aktives Element) */
+  --sl-color-accent: #808080;
+  --sl-color-accent-low: #1a1a1a;
+  --sl-color-accent-high: #c0c0c0;
+  --sl-color-text-accent: #c0c0c0;
+
+  /* Aside-Farben entsättigen (Graustufen) */
+  --sl-color-green-low: #1a1a1a;
+  --sl-color-green-high: #808080;
+  --sl-color-blue-low: #1a1a1a;
+  --sl-color-blue-high: #808080;
+  --sl-color-orange-low: #1a1a1a;
+  --sl-color-orange-high: #808080;
+  --sl-color-red-low: #1a1a1a;
+  --sl-color-red-high: #808080;
+  --sl-color-purple-low: #1a1a1a;
+  --sl-color-purple-high: #808080;
+}

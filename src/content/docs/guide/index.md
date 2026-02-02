@@ -5,7 +5,7 @@ sidebar:
   order: 0
 ---
 
-<img src="https://cdn.guestsguide.com/assets/images/guests-guide-logo.svg" alt="Guests Guide Logo" width="150" style="margin-top: 3em; margin-bottom: 0em;">
+<img src="/assets/guests-guide-light.svg" alt="Guests Guide Logo" width="150" style="margin-top: 3em; margin-bottom: 0em;">
 
 Leisure time is one of the best times of the year. Many people are drawn to a new place during this time, which means getting to know new people and, above all, exploring new accommodation and surroundings.
 
