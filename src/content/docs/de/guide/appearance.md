@@ -49,7 +49,8 @@ Wählen Sie hier die Farben und die Schriftfarbe für Ihre Boxen. Wählen Sie ei
 
 <!-- TODO Text & Bild hinzufügen -->
 
-:::note[Wird noch weiter Ausgearbeitet und folgt in Kürze.]
+:::note
+Wird noch weiter Ausgearbeitet und folgt in Kürze.
 :::
 
 ## Smiley-Widget

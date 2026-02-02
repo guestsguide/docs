@@ -6,11 +6,11 @@ hero:
   tagline: Erreichen Sie Ihre Kunden jederzeit und auf der ganzen Welt
   actions:
     - text: Jetzt starten
-      link: /guide/
+      link: /de/guide/
       icon: right-arrow
       variant: primary
     - text: Pakete ansehen
-      link: /packages/
+      link: /de/packages/
       icon: seti:config
       variant: minimal
 ---

@@ -1,10 +1,13 @@
 export default {
   title: "Guests Guide Docs",
   logo: {
-    dark: "./src/assets/guests-guide-light.svg",
-    light: "./src/assets/guests-guide-dark.svg",
+    src: "./src/assets/guests-guide-light.svg",
     alt: "Guests Guide Logo",
     replacesTitle: true,
+  },
+  customCss: ["./src/styles/custom.css"],
+  components: {
+    ThemeSelect: "./src/components/ThemeSelect.astro",
   },
   defaultLocale: "root",
   locales: {
