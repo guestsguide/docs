@@ -50,7 +50,8 @@ Select the colours and font colour for your boxes here. Simply select a colour o
 
 <!-- TODO Text & Bild hinzufügen -->
 
-::: warning Will be further elaborated and will follow shortly.
+:::note[Coming soon]
+This section will be further elaborated and will follow shortly.
 :::
 
 ## Smiley-Widget

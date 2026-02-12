@@ -7,7 +7,7 @@ sidebar:
 
 Create all the pages for your Guest Guide here. This page is initially empty. In the top right-hand corner, you will find the `Add page` button. Next to it are the languages you have set. A black frame around the country flag shows you which language is currently selected. Below this is the info box with the number of pages still available. 
 
-Click on 'Add page'. You will now see the input mask for your page. The input mask is structured as follows: - Overview of all languages set - The 'Save' button - Input field for the page title - Input field for the content - Category selection field - Time activation selection field - Drag & drop fields for your icon or images
+Click on `Add page`. You will now see the input mask for your page. The input mask is structured as follows: - Overview of all languages set - The `Save` button - Input field for the page title - Input field for the content - Category selection field - Time activation selection field - Drag & drop fields for your icon or images
 
 :::note 
 Once you have created your pages, you can sort them by holding down the left mouse button. You can change the order or create pages as subpages. To do this, drag the pages to the right with the left mouse button held down. The main page is then the page above it.

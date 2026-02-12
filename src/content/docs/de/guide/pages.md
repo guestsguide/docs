@@ -116,12 +116,12 @@ Es erscheint eine Tabelle, die Sie an Ihre Bedürfnisse anpassen können.
 
 Gehen Sie mit der Maus über die Tabelle erscheinen links und oberhalb der Tabelle kleine Quadrate mit vier Punkten. Kicken Sie auf ein Quadrat haben Sie folgende Einstellmöglichkeiten:
 
-Quadrat links:
+##### Quadrat links:
 
 - Fügen Sie ober- oder unterhalb der aktuellen Zeile eine neue ein.
 - Löschen Sie die aktuelle Zeile.
 
-Quadrat oberhalb:
+##### Quadrat oberhalb:
 
 - Fügen Sie links oder rechts der aktuellen Spalte eine neue ein.
 - Löschen Sie die aktuelle Spalte.
