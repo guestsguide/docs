@@ -15,11 +15,11 @@
     "url": "https://github.com/guestsguide/docs"
   },
   "dependencies": {
-    "@astrojs/starlight": "^0.37.4",
+    "@astrojs/starlight": "^0.39.2",
     "@fontsource/inter": "^5.2.8",
-    "astro": "^5.17.0",
-    "sharp": "^0.33.5",
-    "starlight-llms-txt": "^0.7.0"
+    "astro": "^6.3.1",
+    "sharp": "^0.34.5",
+    "starlight-llms-txt": "^0.8.1"
   },
   "engines": {
     "node": "22"

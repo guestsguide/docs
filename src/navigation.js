@@ -8,6 +8,7 @@ export default {
   customCss: ["./src/styles/custom.css"],
   components: {
     ThemeSelect: "./src/components/ThemeSelect.astro",
+    ThemeProvider: "./src/components/ThemeProvider.astro",
   },
   defaultLocale: "root",
   locales: {
@@ -27,21 +28,21 @@ export default {
       translations: {
         en: "Guide",
       },
-      autogenerate: { directory: "guide" },
+      items: [{ autogenerate: { directory: "guide" } }],
     },
     {
       label: "Leitfäden",
       translations: {
         en: "Guidelines",
       },
-      autogenerate: { directory: "guidelines" },
+      items: [{ autogenerate: { directory: "guidelines" } }],
     },
     {
       label: "Pakete",
       translations: {
         en: "Packages",
       },
-      autogenerate: { directory: "packages" },
+      items: [{ autogenerate: { directory: "packages" } }],
     },
   ],
 };
